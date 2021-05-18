@@ -1,0 +1,121 @@
+SN,NAME,Project name,Organisation
+1,Ajay Arasanipalai,"Modernize the LLVM ""Building A JIT"" Tutorial Series",The LLVM Compiler Infrastructure
+2,Sidharth Mundhra,Improving Series Expansions,SymPy
+3,Zyad Ali,System V Message Queues,gVisor
+4,Dinesh Chidipothu,Work on Message view events and Authentication issues.,Zulip
+5,Yi FENG,Performance Tracking in CI,Halide
+6,Pranav Bhatt,CoAP protocol endpoint for Drogue IoT,JBoss Community
+7,Mritunjay Sharma,Cloud Native Buildpacks [CNCF] Project: Automatic Buildpack Registry Action Updates,CNCF
+8,Mohamed Soudy-1,Adding Multi-omics data support to ABioTrans Plus,National Resource for Network Biology (NRNB)
+9,Varun Tiwari,ODK-X: Improving Services User-Interface,Digital Impact Alliance (DIAL) at UN Foundation
+10,Mohit Singh,dart-casbin,Casbin
+11,Mark Joseph Kuebel,Catalyst Crosscompiling and Revamp,Gentoo Foundation
+12,Bruno Messias,A system for collaborative visualization of large network layouts using FURY and sockets.io,Python Software Foundation
+13,Midhun Suresh R,Right Sidebar for Hydrogen client,Matrix.org
+14,Priyam Seth,Improving the compose box and the user interface of Zulip web,Zulip
+15,Avinal,New Build System and improving CI/CD workflow,FOSSology
+16,Arvind Ganesh,"Pythia – a framework for modular, scalable time-series forecasting",The Julia Language
+17,Michał Łukomski,MuZero implementation,The Julia Language
+18,Aditi Sawant,Urban Tree Canopy Detection Using Satellite and Aerial Imagery,Mayor's Office of New Urban Mechanics (City of Boston)
+19,Keisuke Nishimura,Examining the Coccinelle’s Handleability of All Function Headers Found in the Linux Kernel,The Linux Foundation
+20,Muhammed Suhail A H,Building checkers/mappings for known package lists,Python Software Foundation
+21,Yu-Shiang Dang,New Rule Generation Technique & Make Quark Everywhere Among Security Open Source Projects,The Honeynet Project
+22,Gaurav Pandey (ligmitz),Proposal for Zulip - GSoC 2021,Zulip
+23,Michail Raptakis,SatNOGS TX capabilities,Libre Space Foundation
+24,Dinesh Sathia Raj,Eye Tracking,INCF
+25,Suraj Kumar-3,Benchmarking and improving Boost.Real,Boost C++ Libraries
+26,Suyash Vardhan Mathur,Enhancing Zulip API Documentation,Zulip
+27,Atharva Arya,Real-Time Simulation Tracking and a Dedicated Logging Framework for TARDIS,TARDIS SN
+28,Ashwin M,DeepChem Retrosynthesis,Open Chemistry
+29,Nived,Improving TensorFlow GAN Library,TensorFlow
+30,Sean Ng,Netlink proposal,FreeBSD Project
+31,Nitik Jain,Project 6.4: Development of Open-Source Biorobotics Framework,INCF
+32,Nitesh Mahawar,Multimodal TV Show Segmentation,Red Hen Lab
+33,Bogdan Grigoruță,Mocking framework for virtio queues,QEMU
+34,Fan Chung,Input method in FreeBSD virtual terminal,FreeBSD Project
+35,Shruti Chaturvedi,CloudEvents Plugin for Jenkins: Consume and Emit CloudEvents,Continuous Delivery Foundation
+36,Xu Wang,NEXT LEVEL AMQP,Ceph
+37,Wenhe Li,Productionize XNNPACK Machine Learning Backend for Chrome OS,Chromium
+38,Debaditya Pal,(Activeloop) Create an interactive onboarding environment for new users of Hub,Python Software Foundation
+39,Milind Thakur,Generate TensorFlow Lite example for Natural Language Processing,TensorFlow
+40,Harjeet Singh,P2P Messaging App,AOSSIE
+41,Dhairya Bahl,Move ETL library code to synfig-core,Synfig
+42,imlk,Porting PRoot to Rust,openSUSE Project
+43,ayush_bansal,Polaris: Produce rich analysis reports,Libre Space Foundation
+44,Naman Lakhwani,"Automated, Granular TLS client support in Thanos",CNCF
+45,Neelaksh Singh,OpenWRT PPA,freifunk
+46,Rudraksh Aggarwal,Revamping the UI,Bench-Routes
+47,Devin Ragotzy,Ruma's Automated Checks,Matrix.org
+48,Ankit Hans,Resolving problems with Apache Kafka examples using Charmil  Framework,JBoss Community
+49,harshadms,Anti-spoofing Techniques for GNSS Receivers,GNSS-SDR
+50,Shikhar Vashistha,Create new matrix and vector types,Boost C++ Libraries
+51,Jackson Campolattaro,SIMD Optimized AABB Tree,CGAL Project
+52,D.J. Servilla,Director Engine,ScummVM
+53,Aaradhya Saxena,TMVA Deep Learning Developments - Inference Code Generation for Batch Normalization,CERN-HSF
+54,Aakash Chaudhary,[Data Retriever]: Support for Login/API,NumFOCUS
+55,naan_dhaan,User friendly lexical training,Apertium
+56,Dhanuka Warusadura.,libsecret: extend file backend to use TPM2 derived encryption keys,GNOME Foundation
+57,Abhinav Krishna C K,First-Class Email Bridge,Matrix.org
+58,Ghulam Ghous,Omnichannel Project: Live Chat Widget - Accessible Mode,Rocket.Chat
+59,YashRaj-2001,Developer Options Menu,Oppia Foundation
+60,Aditya Siddheshwar,Addon Library Development - p5-teach.js,Processing Foundation
+61,Arjun Garg,AsyncAPI Applications Relations Finder,Postman
+62,Rohan Gupta,vcf2fhir for Structural Variants,Global Alliance for Genomics and Health
+63,Muhammad Ehsan ul Haq,Background Estimation with Neural AutoRegressive Flows,Machine Learning for Science (ML4SCI) Umbrella Organization
+64,Kartik_Gupta,Speech-to-Text,Rocket.Chat
+65,Mayur Shende,Automated (AutoML) tool to clean univariate time series at microscales.,The R Project for Statistical Computing
+66,Tanya Prasad,Peer-to-Peer Message Transfer,AOSSIE
+67,Marcos Tidball,Domain Adaptation for Decoding Dark Matter with Strong Gravitational Lensing,Machine Learning for Science (ML4SCI) Umbrella Organization
+68,Divye Nayyar,Go-Style Channels,Chapel
+69,Anshal Shukla,Extending Support for newer versions of Python,coala
+70,Jebastin Nadar,8-bit quantization in DNN Module,OpenCV
+71,Eugene Lyapustin,Equirectangular Projection (ERP) and Cubemap Projection (CMP) conversion,Intel Video and Audio for Linux
+72,Sundeep Chand,User Story - Improvements and new features,Python Software Foundation
+73,Radesh Kumar,Write Frontend Tests,Oppia Foundation
+74,Junduo Dong,pgagroal: Metrics and monitoring,PostgreSQL
+75,Gagan Aryan,Reduce Memory Usage - Radis,openastronomy
+76,Nnamdi,Boston.gov Solar Roof Potential,Mayor's Office of New Urban Mechanics (City of Boston)
+77,Guillem Felis,Crop Doc,Liquid Galaxy project
+78,Aniket Ranjan,Enhancing the admin panel of openPIP,National Resource for Network Biology (NRNB)
+79,Shruti Sridhar,Quality Assurance and Continuous Integration for Applications in Life Sciences and Medicine,Debian
+80,Chirag Kasat,Developing Testing Harness For PGWEB,PostgreSQL
+81,Anis Ismail,End-to-End Deep Learning Regression for Measurements with the CMS Experiment,Machine Learning for Science (ML4SCI) Umbrella Organization
+82,Tanmay Chavan,Implementing an efficient algorithm to find Intersection of Bezier curves,KDE Community
+83,ankiitgupta7,Simulating Multimodal Communication in Vervet Monkeys with Braitenberg Vehicles,Red Hen Lab
+84,Pinku Deb Nath,Build an open-source realtime web video effects app,MediaPipe
+85,Caleb Herbel,Dynamic Partitioning for Interval Joins in Asterix Database,The Apache Software Foundation
+86,Yash Bhambhu,Animating a poor man [PMR-III],CCExtractor Development
+87,Arsh Pratap,Native ROS2 support,ArduPilot
+88,Callum Rollo,erdappy-griddap: Accessing gridded oceanographic data in near real time,Integrated Ocean Observing System (IOOS)
+89,eppisai (Aman Singh),AXIOM Remote: Firmware Improvement And Extension,apertus° Association
+90,satbws,VLC macOS interface redesign,VideoLAN
+91,Amanjot Singh,Open Geometry Viewer(OGV),BRL-CAD
+92,Ybrahin Martinez,(PyAr) PyZombies,Python Software Foundation
+93,Sanchita Singh,Elastic Compute Cloud-based Amazon Machine Image for XWiki,XWiki
+94,Aryan Shridhar,Enhance Recent topic view with Multiselect Dropdown List Widget And Implement Reusable Widgets,Zulip
+95,Mithil,Liquid Galaxy Stellarium,Liquid Galaxy project
+96,Riccardo Mancini,Multi-threading in perf,The Linux Foundation
+97,Nishchal Singi,A frontend for Niffler DICOM framework for machine learning pipelines and processing workflows,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+98,Yemdjih Kaze Nasser,Machine Learning Credit Scorecard PHASE 4,The Apache Software Foundation
+99,Virajkumar Patel,Tensorflow GUI,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+100,Zeyad Gouda,Use eBPF to lock/unlock the network,CRIU
+101,Abhay Garg,Introduce Support for Displaying Copyright Licenses,Oppia Foundation
+102,Niklas Muennighoff,TripPy + DeepPavlov,DeepPavlov
+103,Anna Bogdanova,Extend CSS Selectors Level 4 Support in cssselect,Python Software Foundation
+104,Aman Dwivedi,Adding React Library to new UI,FOSSology
+105,Kensei Nakada,web-based simulator for scheduler behaviour (Project: Kubernetes),CNCF
+106,Jeffrey Paul,3D Plotting,openastronomy
+107,Rakshit P,Matrix State of the Art,Pharo Consortium
+108,Alejandro Fernández,An object detection component for LearnBlock,RoboComp
+109,nakuldx,corobo Enhancement Project,coala
+110,Chuyang Chen,Integrate Enzyme into Rust to Provide High-performance Differentiation in Rust,The LLVM Compiler Infrastructure
+111,aniket agarwalla,Moving Least Squares for point set smoothing and differential properties estimation,CGAL Project
+112,Alluri Harshit Varma,Quality Improvements for Light & Shadow,The Terasology Foundation
+113,James Culver,New Release,Pidgin Instant Messenger
+114,Karan Singh,Vitrivr Reads,vitrivr
+115,qlin,Pocket Code for Android: HMS API Machine Learning and AI support,International Catrobat Association
+116,Aditi Verma,Integrating NumPy into PySyft,OpenMined
+117,Sinan Gençoğlu,Background Estimation with Neural Autoregressive Flows Proposal,Machine Learning for Science (ML4SCI) Umbrella Organization
+118,Akash Dhiman,Work on enhancing Zulip's mobile experience.,Zulip
+119,Bhuvaneshwar Vemula,Command Palette,Godot Engine
+120,Nicholas Mancuso,Upgrade Java Grammar from ANTLR2 to ANTLR4,Checkstyle
