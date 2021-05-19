@@ -97,7 +97,7 @@ SN,NAME,Project name,Organisation
 96,Riccardo Mancini,Multi-threading in perf,The Linux Foundation
 97,Nishchal Singi,A frontend for Niffler DICOM framework for machine learning pipelines and processing workflows,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
 98,Yemdjih Kaze Nasser,Machine Learning Credit Scorecard PHASE 4,The Apache Software Foundation
-99,Virajkumar Patel,Tensorflow GUI,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+99,Viraj Patel,Tensorflow GUI,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
 100,Zeyad Gouda,Use eBPF to lock/unlock the network,CRIU
 101,Abhay Garg,Introduce Support for Displaying Copyright Licenses,Oppia Foundation
 102,Niklas Muennighoff,TripPy + DeepPavlov,DeepPavlov
@@ -119,3 +119,1175 @@ SN,NAME,Project name,Organisation
 118,Akash Dhiman,Work on enhancing Zulip's mobile experience.,Zulip
 119,Bhuvaneshwar Vemula,Command Palette,Godot Engine
 120,Nicholas Mancuso,Upgrade Java Grammar from ANTLR2 to ANTLR4,Checkstyle
+121,Emma Bastås,Integrating performance improvements from the Elm compiler into elm-format,Elm Tooling
+122,Pranav Saxena,Implement Retest Functionality,OWASP Foundation
+123,Yasharth Dubey,The Multisite project,The Palisadoes Foundation
+124,Shehjad Khan,TensorFlow Lite - Natural Language Processing Example Generation,TensorFlow
+125,Archit Rungta,OpenCV bindings for Julia,OpenCV
+126,Nabeel Danish,Polygon Based Collision Detection System,The ENIGMA Team
+127,Harshit Chopra,"Git credentials binding for sh, bat, and powershell",Continuous Delivery Foundation
+128,Saloni,Coding style checker bot for Gerrit,Haiku
+129,Arsh Sharma,Improve the usability of cert-manager on multiple cloud providers,CNCF
+130,Tarun Moses Akumalla,RDF Writer for Golang,SPDX
+131,KUMAR SHIVAM,Implement and improve several accessibility functions in Joomla! Keyboard navigation,Joomla!
+132,Amr Elsersy,Machine Learning Extension to Ignition Gazebo,Open Robotics
+133,Divyasheel,GSOC 2021 Proposal - GUI for listing and managing available IPP services,The Linux Foundation
+134,Roberto David Aleman,Aerospaces sats,AerospaceResearch.net
+135,Mrigank Anand,Extending functionalities and Re-Design WebUI Graphs,OWASP Foundation
+136,David Ayotte,Implementation of the graded ring of quasimodular forms,SageMath
+137,Ujjwal Agarwal,JSON Support for Golang libraries,SPDX
+138,Georgios Giannakoulias,Development of a DIY robot kit for educators,GFOSS - Open Technology Alliance
+139,Atharva Raykar,Finish converting submodule to builtin,Git
+140,Soumyadip Mondal,Building a Cronet-based HTTP package in Dart,Dart
+141,Aditya Kane,Implement and publish state-of-the-art ML models in TensorFlow 2 : ResNet-RS and EfficientNetV2,TensorFlow
+142,Ahmed-1,PyTorch-Ignite: Development of a Higher-level API,NumFOCUS
+143,Isabel Lima,Shared Storage for Property Wrappers,Swift
+144,Deepak Singh Rathore,Typed API for LuaRocks,LabLua
+145,Julian Komaromy,Mesh Decimation using Probabilistic Quadrics,CGAL Project
+146,Adam Li,An Electrophysiology Connectivity Package in the MNE Environment,Python Software Foundation
+147,a-yyg,SAGA2 engine,ScummVM
+148,Shailesh Kanojiya,GSOC - Create cypress tests for wikipedia-preview,Wikimedia Foundation
+149,Mahanaz Atiqullah,"A ""Bite-Sized"" BitArray",Swift
+150,Nasir Hemed,Metadata extraction using dav1d,VideoLAN
+151,Aaryan Porwal,Visual Regression Testing of Ceph-Dashboard,Ceph
+152,Benura Abeywardena,Improve Robustness by fixing Issues / Feature Requests from the backlog,The Apache Software Foundation
+153,Kathrin Elmenhorst,Measuring QUIC and TLS censorship with OONI Probe,Digital Impact Alliance (DIAL) at UN Foundation
+154,Bayram Çiçek,100 Paper Cuts,LibreOffice
+155,Venkata Shravan,Migrating sample-platform from Kernel-based Virtual Machine to Google Cloud.,CCExtractor Development
+156,Ritik Jain,Peer to Peer Message Transfer,AOSSIE
+157,The_DarkFire_,implementation of SMP HALs,ReactOS
+158,Sarthak Singh,Scan8,SCoRe Lab
+159,George Mitenkov,Fixing fundamental issues in LLVM IR: Introducing a byte type to solve load type punning,The LLVM Compiler Infrastructure
+160,Sahil,Improve CVE database structure and tracking of multiple reports,Python Software Foundation
+161,Xinyu Wang,Optimize Kernel::require API for Ruby 3,Ruby
+162,Kunwar Maheep Singh,Implementations of AVX-512 functions,Open Bioinformatics Foundation
+163,Hariom Chaturvedi,PcapMonkey Improvements,The Honeynet Project
+164,Ayush Shrivastava,Irdest Android Client,freifunk
+165,Alessandro Cheli,Applied equality saturation with Metatheory.jl,The Julia Language
+166,infaz,Support JOOQ API within gora-sql module,The Apache Software Foundation
+167,Shubham Awasthi,A Frontend For Loopsim Framework To Model Workflows With Closed Loops,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+168,Himanshi Kalra,Regression Testing of Geometry Nodes,Blender Foundation
+169,Victor Hugo Cano Gil,Extended Interoperability of ChemTools and Quantum Chemistry Software,Open Chemistry
+170,Tina Ismail,Revamping the Juice Shop Score Board,OWASP Foundation
+171,Dhanmoni Nath,Enabling and prototyping JavaScript visualizations in the Qt-based viewer TOPPView (OpenMS).,Open Bioinformatics Foundation
+172,Manav Agarwal,Adapt schema editors to operate from model states instead of fake rendered models,Django Software Foundation
+173,Octávio H. Müller Barrio,Liquid Galaxy Image Satellite Visualizer,Liquid Galaxy project
+174,Parth Pant,On-Canvas Alignment Guides,Inkscape
+175,Vipul Chhabra,Brokering Continuous Delivery through the ELIXIR Cloud service registry,Global Alliance for Genomics and Health
+176,Noah Liguori-Bills,Expand ModelBricks.org and VCell API,National Resource for Network Biology (NRNB)
+177,Swapnal Shahil,SCoRe Lab Open MF Proposal,SCoRe Lab
+178,Jenniline Ebai,Activity Cull,CiviCRM LLC
+179,Baidyanath Kundu,Utilize second order derivatives from Clad in ROOT,CERN-HSF
+180,D R Siddhartha,Scrapy: Feed Enhancements,Python Software Foundation
+181,Pratyush Tiwari,Cut Mode,Pitivi
+182,zwerg4,Catrobat iOS Team proposal for Ticket: Support for Catrobat Language version 0.994 - 0.99992,International Catrobat Association
+183,Sophia He,Uncovering the Enigma of Type-Ia Supernovae: Thermonuclear Supernova Classification via their Nuclear Signatures,Machine Learning for Science (ML4SCI) Umbrella Organization
+184,Piotrek Brzeziński,"""Focus on the music"" - music-oriented editing for everyone",Pitivi
+185,Anubhav Singh-1,VLC iOS UI update,VideoLAN
+186,Manas Gupta,Clang Static Analyzer: Constraint Solver Improvements,The LLVM Compiler Infrastructure
+187,Rasswanth S,Implement FALCON: Honest-Majority Maliciously Secure Framework for Private Deep Learning in SyMPC,OpenMined
+188,Sumitra Saksham,Multilingual Support in the App,The Palisadoes Foundation
+189,Mrinalkanti Roy,3D CAD scripting using Smalltalk,Pharo Consortium
+190,Vivek Agrawal,Revolutionizing the Tasks API,Learning Equality
+191,Pranav Mahajan,A Python toolbox for computing high-order information in neuroimaging,INCF
+192,M. Vignesh Venkataraman,JaxModel: A high level API for building purely functional models suitable for Molecular Predictions & Simulations,Open Chemistry
+193,Samarjeet Singh,Infinite Scroll,Navidrome
+194,Purvansh Singh,Banking Service with Open Risk and Hydra Ecosystem,Hydra Ecosystem
+195,Aman  Verma,Implementation of Physical Shape Function,CERN-HSF
+196,jaxmatrix,3Dmol UI Design and Improved Controls,Open Chemistry
+197,Yash,Webiu,SCoRe Lab
+198,S.M Mukarram Nainar,TX AArch64 Doubles SIMD Assembly,FFmpeg
+199,Haris Zafeiropoulos,From DNA sequences to metabolic interactions: building a pipeline to extract key metabolic processes,GeomScale
+200,Tanmay Singal,Implement IIIF read in Cineast,vitrivr
+201,Rishab Mallick,Extract important information from scientific papers,Genome Assembly and Annotation
+202,Nabeel Merchant,IMS QTI 2.2 DEVELOPMENT PROPOSAL,Learning Equality
+203,Tim Ramlot,'kubectl cert-manager install': A CLI plugin to make it easy to install and verify the installation of cert-manager,CNCF
+204,Jake Watson,Create robust visual fiducial tags,OpenCV
+205,Sofia Strukova,Machine Learning Model for the Planetary Albedo,Machine Learning for Science (ML4SCI) Umbrella Organization
+206,Ganesh Pawar,"Improve tooling, integrations, and testing infrastructure of Zulip",Zulip
+207,Omkar  Bhilare,BeagleWire Software,BeagleBoard.org Foundation
+208,Matan,GOING NATS,Ceph
+209,Rupal Sharma,Path finding algorithm using OpenCV,"Center for Research in Open Source Software, UC Santa Cruz"
+210,Aishwary Saxena,Write Frontend Tests,Oppia Foundation
+211,Siddhant Sehgal,Paste Special Proposal,Joplin
+212,Isaiah Blanks,Destination: Sol World-Gen Modularization,The Terasology Foundation
+213,gupt4j1,Improvements In WebUI for Nettacker,OWASP Foundation
+214,Mohammad Arshad,Deluge Mobile client,CCExtractor Development
+215,Ninad Jangle,Block Based Circuit Design,Free and Open Source Silicon Foundation
+216,Ahmed Moorsy,Arabic Sign Language Recognition,MediaPipe
+217,Michal Lenc,NuttX Support for Rapid Control Applications Development with pysimCoder,The Apache Software Foundation
+218,Bikram Biswas-1,Multiple SSH key holding on CloudStack,The Apache Software Foundation
+219,Joao Luiz,Single-Cell pathway annotation pipeline,Open Genome Informatics
+220,Halil İbrahim Ceylan,Buildpacks Lifecycle Prepare Phase,CNCF
+221,Vinayak Sankar,Remote Test System for AXIOM Remote,apertus° Association
+222,luc65r,FFmpeg x86-64 assembly FFT,FFmpeg
+223,Tamara David,Advancement through project merge,International Catrobat Association
+224,Paulette Vazquez,Geospatial Tools for Post-Disaster Housing Analysis,Mayor's Office of New Urban Mechanics (City of Boston)
+225,ApratimRanChak,Alexa Top Sites Captcha and Tor Block Monitoring,Digital Impact Alliance (DIAL) at UN Foundation
+226,Rachana Podaralla,On Canvas Marker Editing,Inkscape
+227,Nickil Maveli,Detecting Joint Meaning Construal by Language and Gesture,Red Hen Lab
+228,Veenit Kumar,Implement Edge Coloring Algorithm for pgRouting by the Boost Graph Library.,OSGeo - Open Source Geospatial Foundation
+229,Rishabh Sanjay,Adding New Plots to ArviZ,NumFOCUS
+230,Sarthak Saxena,API Conversion API,Postman
+231,Prateek Ganguli,Android SDK tools in Debian,Debian
+232,Mikhail Nitenko,H264/HEVC ARM64 10-bit assembly,FFmpeg
+233,taylorzhancher,Enhance Accessibility of More ScummVM Engines by Text To Speech (TTS),ScummVM
+234,Siddharth Bhatia,Multi-Agent Reinforcement Learning Environments in GridWorlds.jl,The Julia Language
+235,Fang,APISIX ingress controller integration with Knative Serving,The Apache Software Foundation
+236,Aviral Jain,Monitoring setup for EvalAI,CloudCV
+237,Sang Woo Bae,Apache CloudStack - Synchronization of network devices on newly added hosts for Persistent Networks,The Apache Software Foundation
+238,Dhananjay Purohit,Improve site architecture and add features to the Orcamap,Orcasound
+239,Arash Ahmadian,Capturing an abstracted model of Xilinx Artix7 using VTR,SymbiFlow
+240,Siyi Wei,Fairness extension for mlr3,The R Project for Statistical Computing
+241,Savish Bedi,Static code upload challenge evaluation and enhancements in GitHub based challenge creation,CloudCV
+242,Abhay Raj Singh,libnbd/nbdcopy acceleration using io_uring,libvirt
+243,Rahul Chauhan-1,Rucio and CS3API to enable data management for the ScienceMesh cloud,CERN-HSF
+244,Omkar Prabhune,Apertium Browser Plugin,Apertium
+245,Purhan Kaushik,Revamp Netengine and add its SNMP capability to OpenWISP Monitoring,OpenWISP
+246,Rishikesh Vanarse,IMU Calibration & Self-Correction Algorithm for Open Source Autonomous Vehicle Controller,"Center for Research in Open Source Software, UC Santa Cruz"
+247,Avishrant Sharma,Integration of alternate Code Analysis Tools and Asynchronous Scan Enhancements.,AboutCode
+248,Bhaarat Kumar Khatri,Update the front-page of Wikimedia projects,Wikimedia Foundation
+249,Atharva Nimbalkar,Implementation of NEON functions (SIMDe),Open Bioinformatics Foundation
+250,Aner Lucero,Enhanced figure support in pandoc,Haskell.org
+251,Mohammed Jeeshan Sheikh,SciML : Discretizations of partial differential equations,NumFOCUS
+252,Aditya Kasibhatla,Graphical-User Interface for affective human-robot interactions,RoboComp
+253,Sayan Nath,💻 GSoC 2021: TensorFlow Lite Proposal,TensorFlow
+254,Vishv Kakadiya,Transliterations editor and API,Cuneiform Digital Library Initiative (CDLI)
+255,Yassmin Hesham,Simultaneous path planning and following using Model Predictive Control (SPAF),RoboComp
+256,lvrcek,Reactome Pathway Embeddings,Open Genome Informatics
+257,rgo3,A Feature Probe API for cilium/ebpf,Cilium
+258,Rishabh Ranjan Jha,Feature Enhancement - Cookie Management System,Joomla!
+259,Aniket Giri,Implement 3D scene visualization support using Potree and integrate with MapMint,OSGeo - Open Source Geospatial Foundation
+260,María Belén,Retain active status of authentication tokens,Metasploit
+261,Ajay-1,gghexbin: An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2’s functionality,The R Project for Statistical Computing
+262,Arkajyoti Basak,Improve and add to the drone exercises,JdeRobot - Universidad Rey Juan Carlos
+263,Mohammad Warid,spectral-workbench.js JS/Rails integration (Public Lab),Public Lab
+264,Ank,An orchestration system for MGnify running on distributed heterogeneous compute clusters,Genome Assembly and Annotation
+265,Isaac Miti,Design and implementation of Code is Science front-end using ReactJS,Open Bioinformatics Foundation
+266,William Kimmerer,Differentiable GraphBLAS,The Julia Language
+267,Sachin Som,OpenMF-GSOC'21 Proposal-Sachin Som,SCoRe Lab
+268,Yatharth Vyas,Joomla Feature Enhancements,Joomla!
+269,Stefanos Vlachos,EAT - EAP Additional Testsuite,JBoss Community
+270,Thomas Huber,OpenACC Diagnostics from the OpenMP Runtime,The LLVM Compiler Infrastructure
+271,Aman Godara,GSoC Proposal for Fortran-lang,Fortran-lang
+272,Meghal Bisht,Eventyay Open Event : Refactor current frontend in Ember to React with Next,Digital Impact Alliance (DIAL) at UN Foundation
+273,Shubhank Saxena,"MediaCMS - modern, fully featured video and media CMS",GFOSS - Open Technology Alliance
+274,antelk,Support of the simulation-based inference with the model fitting toolbox,INCF
+275,Aryan Kenchappagol,Implement 3D scene visualization support using Potree and integrate with MapMint,OSGeo - Open Source Geospatial Foundation
+276,Federica Trevisan,Developing WellcomeML further for the visualisation of academic research data,Open Bioinformatics Foundation
+277,Zhuoran He,TLA+ Spec for Async Commit,CNCF
+278,Archisman Dey,Improvemens to simpPRU,BeagleBoard.org Foundation
+279,Sankalp (codesankalp),Bring professional efficiency to OpenWISP WiFi Login Pages,OpenWISP
+280,Timo Rantakaulio,"Finnish, Olonets-Karelian and Karelian lexicon development",Apertium
+281,Viet Hoang,LORIS Codebase Maintenance and Automated Testing,INCF
+282,Sundaram Dubey,Reimplementing Open Event Frontend in React,Digital Impact Alliance (DIAL) at UN Foundation
+283,Yu Kimura,Develope benchmark tool specialized in real-world rails application,Ruby
+284,Nishtha Bodani,Beacon,CCExtractor Development
+285,Purva Thakre,Quantum Gate Decomposition for QuTip,NumFOCUS
+286,Heshan Andrews,Export and Import Feature for the OMRS Reporting Module,OpenMRS
+287,Krishita Jain,Redesigning and Updating the Learner Dashboard Page.,Oppia Foundation
+288,Hritik Vijay,VulnerableCode importers refactoring and addition,AboutCode
+289,Sidharth Shambu,CCSDS Space Packet / USLDP Transport Layer for Python and MicroPython,LibreCube Initiative
+290,Zixuan Li,Improving Zulip Bots and Integrations.,Zulip
+291,Ali Sedaghati,Learning Loop Transformation Heuristics,The LLVM Compiler Infrastructure
+292,Hardik Thami,Implement a CheckBox Group in App Inventor,MIT App Inventor
+293,Shoaib Ahmed Siddiqui,3D Convolutions for GPU,CERN-HSF
+294,Alexander Galarraga,Dynamics Algorithmic Improvements,SageMath
+295,Vuong Ho,Opening hours tag evaluator,OpenStreetMap
+296,Harshita Mangla,User Story - Improvements and New Features,Python Software Foundation
+297,Alan Cueva,Custom formatting of strings in MariaDB queries,MariaDB Foundation
+298,Ethan Long,nIME,Plan 9 Foundation
+299,Kabir,Finalizing the 2D Regularized Boolean Set Operations Demo,CGAL Project
+300,Ajit Mujumdar,Translation System Refinement,Public Lab
+301,Praveen Sahu,CuPy: Extending CuPy coverage of SciPy functions,NumFOCUS
+302,nrumeshp,COMDEV-412 Apache DolphinScheduler Parameter coverage,The Apache Software Foundation
+303,Alejandro Rusi,Courseware as Code Enablement,GitLab
+304,Saransh Chopra,Automated Twitter bot to run PyBaMM Simulations,NumFOCUS
+305,Toshiki Maekawa,Utilize LoopNest Pass,The LLVM Compiler Infrastructure
+306,Evan Lee,Assessing the Performance Effects of Adding New Synthesized Rewrite Rules to Halide,Halide
+307,Saswata Mukherjee,Smart automation for project documentation and website,CNCF
+308,Stelios Malamas,Add machine-readable debug & stats /proc file,Samba
+309,Shubhamjain,Write missing unit tests,LibreOffice
+310,Mehdi Mabrouki,"Suggest, implement and publish state-of-the-art ML models in TensorFlow 2",TensorFlow
+311,Kush Kothari,[Data Retriever] Adding Spatial Dataset Support - Kush Kothari,NumFOCUS
+312,Hemanth Krishna,[Litmus Portal] Authentication Module Refactor and OAuth Implementation,CNCF
+313,Akhil J Nair,Adapting algorithms to C++ 20 and Ranges TS,STE||AR Group
+314,Albert Morea,Orbit Satellite Visualizer for Liquid Galaxy,Liquid Galaxy project
+315,chazuttu,PyAfipWs: Library for  Developers (PyAr),Python Software Foundation
+316,Leo,Expanded and Enhanced Big Data Infrastructure on Gentoo,Gentoo Foundation
+317,Shubham Kumar-1,Geo Team Proposal: Improvements to backup and restore process,GitLab
+318,Shreya Agarwal,Result Reporter Tool for Bears,coala
+319,sary nasser,Bringing the context to the translators by a magic gate .,LibreOffice
+320,Tobias Soppa,Implement ClosedTabCache,Chromium
+321,Darshpreet Singh,Develop an Android Mobile Application For Newborn Clinical Decision Support,LibreHealth
+322,Naoto Ono,Tests for debugger,Ruby
+323,Claudio Cambra,Plasma Mobile - Akonadi Calendar,KDE Community
+324,Julius Marozas,Gradually Typed Hasktorch,Haskell.org
+325,Nanubala Gnana Sai,A Framework for Multiobjective Optimizers,mlpack
+326,HanwGeek,Implement sorting methods for PostGIS data types before building GiST index,OSGeo - Open Source Geospatial Foundation
+327,Manikya,FastAI.jl Development,The Julia Language
+328,Aditya Jeppu,Video Sequence Editor Improvements - Individual strip previews and modification indicators,Blender Foundation
+329,Abhi Kulshrestha,Ask SCORE - Community App,SCoRe Lab
+330,Fruityloops,Application for Embroidery Robot Programming using Pocket Code IDE,International Catrobat Association
+331,Estefania Barreto-Ojeda,MDAnalysis module to calculate membrane curvature,MDAnalysis
+332,Eesha Arif,Improve Frontend Type System,Oppia Foundation
+333,Khaled Emara,XFS FUSE FreeBSD Port,FreeBSD Project
+334,Pulak Malhotra,Heap Viewer,Rizin
+335,Ritik Kumar Srivastava,GSoC’ 21: The Palisadoes Foundation,The Palisadoes Foundation
+336,Matthew Filipovich,Modern Plotting Machinery for the Large Hadron Collider's Monte Carlo Event Analysis Tool,CERN-HSF
+337,Nghia Duong,Faces engine Improvements,KDE Community
+338,Minshuo Chen,Efficient and Scalable LP-based Multi-Stage Decision Making in R,The R Project for Statistical Computing
+339,Xiaojie Yi,XFS Filesystem Support,Haiku
+340,Matías Ceferino Demarchi,OpenLex: Migration to Python 3 and Py4Web,Python Software Foundation
+341,ankit2001,Bug Logging Tool,OWASP Foundation
+342,Harshal Dupare,Adding Interactive Notebooks for Algorithms Implemented in NetworkX,NumFOCUS
+343,arpitvaghela,Integrating Pandas into Syft,OpenMined
+344,Fabian Schempp,Porting popular modifiers to Geometry Nodes,Blender Foundation
+345,Nikhil Agarwal,GSoC 2021 Proposal -- Implement schema validators for the handler params  (Nikhil Agarwal),Oppia Foundation
+346,Umang Taneja,MIGRATE SPDX ONLINE TOOLS TO DJANGO 3,SPDX
+347,Eshan Arora,Automatic Generation of schema from directory,Python Software Foundation
+348,Nadezda Lutovinova,Finding bugs related to memory errors in Linux Kernel and improving environment model specifications for static verification,The Linux Foundation
+349,Gangavarapu Praneeth,Write Frontend Tests,Oppia Foundation
+350,Khanh-Tung Nguyen-Ba,GSOC Stan Proposal - Bayesian Computation Benchmark,NumFOCUS
+351,Divyanshu Madan,Enhancing and extending clang-bind,Point Cloud Library
+352,Hannes,"Utilizing Speech-to-Speech Translation to Facilitate a Multilingual Text, Audio, and Video Message Board and Database",Red Hen Lab
+353,Arpan Parikh,Improve Metric Module,NumFOCUS
+354,Arijit Kundu,Faces of GNOME,GNOME Foundation
+355,Rishabh Vasudevan,"""Hey Rodney"" Wake Word Detection",JBoss Community
+356,Shivanshu Tyagi,Speech recognition using OpenCV Audio IO module,OpenCV
+357,He Yang,ReactOS implement iernonce.dll for RunOnceEx,ReactOS
+358,Arkajyoti Bhattacharjee,Improvements to nls(),The R Project for Statistical Computing
+359,Anant Thazhemadam,Tight-Binding Atomic Graph Networks - Orbital Graph Convolution Neural Network,The Julia Language
+360,Manan Jethwani,New library catalogue UI for Kiwix-serve,Kiwix
+361,Prajna,Bioinformatics with Jupyter Notebooks,Open Genome Informatics
+362,Harsh Kumar,Adding new activities,KDE Community
+363,SunTzunami_8_24,FURY: Ribbon and Molecular Surface Representations for Proteins,Python Software Foundation
+364,Ziwei XU,Towards a neural extraction framework,DBpedia
+365,Liangda Wang,Apache ShardingSphere - Proofread the Oracle DDL/TCL SQL Definitions,The Apache Software Foundation
+366,Akshit Kushwaha,Tests for the VCL graphics backend,LibreOffice
+367,visvesh subramanian,Redesigning Health's MainView,GNOME Foundation
+368,Fredrik Wieczerkowski,Inlay type hints for SourceKit-LSP,Swift
+369,Saubhik Mukherjee,LSB: Analysis & Fixing of Race Condition Warnings in the Linux Kernel,The Linux Foundation
+370,Harshitha S,Formal Verification of OpenRISC’s Mor1kx processor using yosys,Free and Open Source Silicon Foundation
+371,Liq Tao,Inlining: using locally optimal inlining decisions,The LLVM Compiler Infrastructure
+372,Ayas Behera,Extending the features of the vulnerable code snippets and redesigning the score board,OWASP Foundation
+373,Antonio Gomes,3D Barycentric Coordinates for Convex Polyhedra with Triangular Faces,CGAL Project
+374,Vasudev Gupta,Implement and publish state-of-the-art ML models in TensorFlow 2 & deploy them on mobile devices using TensorFlow Lite,TensorFlow
+375,Manish Kumar Shah,OpenWISP REST API,OpenWISP
+376,felipe bivort haiek,GPU backend for QuTip,NumFOCUS
+377,Soham Dixit,Distributed lit testing,The LLVM Compiler Infrastructure
+378,Sai Rohitth Chiluka,Improving the User Experience of Zulip Terminal,Zulip
+379,Ivan Molodetskikh,Shell: update screenshot and screen recorder,GNOME Foundation
+380,Parth Pratim Chatterjee,Direct Code Execution Modernization,The ns-3 Network Simulator Project
+381,Leonardo Cumplido,Python Argentina: <PyZombis project> Continue the implementation of the course in the Runestone environment,Python Software Foundation
+382,Abdallah Elshamy,Jupyter Notebook Integration,GNU Octave
+383,Leandro Doctors,Clojure CLI Build Tools in Debian,Debian
+384,Otávio Oliveira,Visit the World,Liquid Galaxy project
+385,Shu Richmond,Slagora API and Admin Dashboard,AOSSIE
+386,Sachin Chauhan,Eventyay Open Event: Open Event Frontend Reimplementation,Digital Impact Alliance (DIAL) at UN Foundation
+387,Pranav Rajpal,Improve support for singledispatch,mypy
+388,Yashraj Desai,Discovery Search and Advanced Search features,Cuneiform Digital Library Initiative (CDLI)
+389,Dharna Chandrakar,Prepare cyjShiny for R Package  Repository Submission,National Resource for Network Biology (NRNB)
+390,Lisardo Pérez Lugones,Depicting of Graphical Communication Systems (GCS) in Aztec/Central Mexican manuscripts with Deep Learning: glyphic visual recognition and deciphering using Keras,Red Hen Lab
+391,Osama Ahmad,On-canvas interactive boolean operations,Inkscape
+392,Ashish  Malik,Casbin plugin for Kubernetes,Casbin
+393,Aravind Murali,MSUI UI Redesign,Python Software Foundation
+394,Pu (Luke) Yi,Analyzing Fault Injection in Java PathFinder and Symbolic PathFinder,Java PathFinder
+395,RWMK,CodeLabz,SCoRe Lab
+396,Prakhar Agarwal,Web App UI Cleanup,Purr Data
+397,Asier Galicia,TensorFlow data backend for QuTiP,NumFOCUS
+398,Chi Lung Cheng,Quple - Quantum GAN,Machine Learning for Science (ML4SCI) Umbrella Organization
+399,João Seckler,Optimizing build and deploy in Kworkflow: towards the Beta release,The Linux Foundation
+400,Aradhana Kund,DESIGN CHALLENGE,Cuneiform Digital Library Initiative (CDLI)
+401,Chaitanya Kulkarni,Adding Adaptive Bayesian SLOPE (ABSLOPE) to the SLOPE Package,The R Project for Statistical Computing
+402,Vedang Joshi,Trust anchor management for drg,JBoss Community
+403,Mahmoud Khalil,Okular: Improve Custom/Image Stamp Annotation Handling,KDE Community
+404,Mohammad Humayun Khan,Add WebAuthn Support to XWiki,XWiki
+405,Pola Hano Shehat,Improving Image Lab Project UI/UX,SCoRe Lab
+406,Shubhanshu Saxena,Async Support for TensorFlow Backend in FFmpeg,Intel Video and Audio for Linux
+407,Vishal Chaudhary,Port power policies end-to-end tests,Chromium
+408,Daniil Pakhomov,Efficient Realistic Image Manipulation,MediaPipe
+409,Mykola Medynskyi,Implement support for ScalaPy in Scala 3,Scala Center
+410,Ajinkya Raghuwanshi,DSP hard block integration in SymbiFlow,SymbiFlow
+411,Ji Hun Hong,Korean Translations and Website Improvements,Processing Foundation
+412,Mohamed Mokhtar,Red Hen Rapid Annotator,Red Hen Lab
+413,Darshil Patel,Introducing Ephemeral Channels in Rocket.Chat,Rocket.Chat
+414,zbrown,Shell: Implementing Layout Managers in Rust,GNOME Foundation
+415,Rahat Muneeb,"Snooze, search and filter for the Chrome DevTools Issues Tab",Chromium
+416,Yongrong Chen,SwiftPM support for Swift scripts,Swift
+417,Tarun Nagdeve,Development of  a Visual Recognition model for Aztec Hieroglyphs,Red Hen Lab
+418,Konstantinos Doumanidis,HA-Auto:  Node-RED Compatible DSL for Home Assistant,GFOSS - Open Technology Alliance
+419,Puranjay Mohan,IIO Driver: ADXL355 Accelerometer,The Linux Foundation
+420,Martin Kostelník,Single precision support for GPU acceleration in VecGeom,CERN-HSF
+421,Yash Rajpal,App: Bad-Words Filter,Rocket.Chat
+422,Kamush,Implementing new language pair: Kazakh - Uzbek,Apertium
+423,Atreya Majumdar,Make Deepchem More Robust: Implement Cutting-Edge Models and Other Features,Open Chemistry
+424,Yuki Osaki,Language Server for RBS,Ruby
+425,Dinko Franceschi,Tree-based models,TensorFlow
+426,Quinn Okabayashi,Interpersonal Identity Verification,openSUSE Project
+427,Mirali Ahmadli,Improve Eigen’s Tensor Module and Integration with TensorFlow,TensorFlow
+428,Ashutosh_Chauhan,Angular Migration,Oppia Foundation
+429,Subham Raj,OPEN DATA KIT: Improve the suitcase application,Digital Impact Alliance (DIAL) at UN Foundation
+430,Nkoa Christophe,Multi currency memberships,CiviCRM LLC
+431,Georgiy Lebedev,LLVM JIT engine for Tarantool's DQL,Tarantool
+432,Harshavardhan Unnibhavi,Development of a vhost-user-vsock application and its integration with kata contianers,QEMU
+433,Paulina Martin,MCMC Chains imporvements,The Julia Language
+434,Eduardo Quintana Miranda,Boost.Math: FFT Utilities,Boost C++ Libraries
+435,Tomás Assenza,Android native app for network selection capability in LibreMesh routers,freifunk
+436,Amirfarhad Nilizadeh,Using Lightweight Specifications with Fuzzing and Symbolic Execution to Reveal Security and Semantic Bugs,Java PathFinder
+437,Ashwath V A,Chord Symbol Style Editor,MuseScore
+438,Alan Barzilay,Expanding support for Kworkflow: bootloaders  and Linux distributions,The Linux Foundation
+439,Kartik,LasoMax,gprMax
+440,Harshal Anil Shende,RooFit Development - Intuitive Python bindings for RooFit,CERN-HSF
+441,Adithya Sunil Edakkadan,Porting BaseJump STL to FuseSoC,Free and Open Source Silicon Foundation
+442,Dhruv Jain,Introduce Video and Audio calls to LiveChat,Rocket.Chat
+443,Anshudhar Kumar Singh,Improvement in Export Options,Inkscape
+444,Francesco Bursi,A new render type: On-the-fly Raster Calculator for QGIS,OSGeo - Open Source Geospatial Foundation
+445,Guillem Lopez Paradis,Parallelising Verilog RTL Simulations Using MPI,Free and Open Source Silicon Foundation
+446,Marlin Roberts,Improved Integration of String Solvers in SPF,Java PathFinder
+447,Adarsh Kumar,Plug and Play Language Models in Julia,The Julia Language
+448,Siddhant Jain,Neural QA Model for DBPedia,DBpedia
+449,Gopi Manohar Tatiraju,Replacing boost spirits,mlpack
+450,Jiarui Wang,Expected Returns: FactorAnalytics,The R Project for Statistical Computing
+451,Hari Prashant Bhimaraju,Enhancing the Zulip Terminal Experience,Zulip
+452,Lycanthrope,GSOC 2021 CodeLabz Proposal,SCoRe Lab
+453,Anant Bhasin,E2E Testing for Android in Rocket.Chat.ReactNative,Rocket.Chat
+454,Amr Maghraby,Machine detection of film edits,Red Hen Lab
+455,tastatham,Geopandas - Dask bridge to scale geospatial analysis,NumFOCUS
+456,Rithik Sharma,Clang Static Analyzer performance profiling,The LLVM Compiler Infrastructure
+457,Aayush Sabharwal,Model Serialization and Pathfinding  for Agents.jl,The Julia Language
+458,Rahul Halder,Voice Channels,Rocket.Chat
+459,Yorguin Mantilla Ramos,SOVABIDS: A python package for the automatic conversion of MEG/EEG datasets that makes the most out of metadata,INCF
+460,Gautam Jajoo,Improvements in EvalAI frontend,CloudCV
+461,ABHISHEK AGARWAL,Final Step Towards Deployment,AOSSIE
+462,Tomas Capretto,Extend available models and default priors in Bambi,NumFOCUS
+463,Mai Nguyen,Distribution Checks,MGGG Redistricting Lab
+464,Kapil (devkapilbansal),OpenWRT package for OpenWISP Monitoring,OpenWISP
+465,Ahmed Alwasifey,Improving Conflict Resolution Process,Joplin
+466,Rajan Jaiswal,Improving rutorrent mobile interface,CCExtractor Development
+467,Deep Majumder,Making Smart Pointer Checkers default checkers in the Static Analyzer,The LLVM Compiler Infrastructure
+468,Gourishankar Panda,Improve Kiwix Android Library,Kiwix
+469,Yash Srivastava,Interface for reporting search bugs for Nominatim,OpenStreetMap
+470,Yash Jipkate,Port wiki to ReadTheDocs or another documentation platform,"Center for Research in Open Source Software, UC Santa Cruz"
+471,Remco Kranenburg,Predictive Text Input for Virtual Reality,xrdesktop
+472,Gavish Poddar,Implementing an optional language detection library to improve language detection.,Python Software Foundation
+473,Ping Zhang,GSoC Proposal: Multi-Start Optimization Methods,NumFOCUS
+474,Lakshya Singh,Socket Library,Chapel
+475,Suhas G,Shifting VisualCircuit to a web server,JdeRobot - Universidad Rey Juan Carlos
+476,Martynas Stankevičius,FFT assembly,FFmpeg
+477,Akshat Tiwari,Musicbrainz Android App: Dawn of Showdown,MetaBrainz Foundation Inc
+478,Liutong HAN,Optimizing OpenCV DNN for RISC-V Proposal,OpenCV
+479,Ritiek Malhotra,Complete Rust binding for the MusicBrainz API,MetaBrainz Foundation Inc
+480,Benjamin Doron,Minimum Platform Board Port - Acer Aspire VN7-572G,TianoCore
+481,mschwennesen,NetworkX: Implementing the Asadpour Asymmetric Traveling Salesman Problem Algorithm,NumFOCUS
+482,Aayush Joglekar,Sample Diagnostics App for ChromeOS,Chromium
+483,Mragank Shekhar,"Speed-up, parallelize and distribute ArviZ",NumFOCUS
+484,Siyuan Fan,A Software ISP Implementation with OpenCL,libcamera
+485,Sankha Das,SBML4Humans - Interactive SBML Report for Humans,National Resource for Network Biology (NRNB)
+486,Avinash,RetroShare WEBUI,freifunk
+487,Adrian-Antonio Petre,Portability for the Patatrack Pixel Track Reconstruction with Alpaka,CERN-HSF
+488,Frank Schäfer,Neural Hybrid Differential Equations and Adjoint Sensitivity Analysis,NumFOCUS
+489,Adwait Bhope,Adding Support for Resampling Data with NDCube,openastronomy
+490,Sparsh Agrawal,Static Analysis Checks + Improvements,Oppia Foundation
+491,Omar Mohamed Abdel Samea,Making FOSSology architecture microservice friendly,FOSSology
+492,Deepro Choudhury,Implementation of FHIRPath in a Java library,Google FHIR SDK
+493,santhab,Implementing table styles DOCX support,LibreOffice
+494,open-sorcerer,WebView Components UI,Chromium
+495,Hongcheng Zhong,VVC Parser for Gstreamer,Intel Video and Audio for Linux
+496,Sandagomi Pieris,CrawlerX - Distributed crawling system,SCoRe Lab
+497,Ilias Kyranas,Sastix-CMS: A general purpose Java CMS in Spring Boot,GFOSS - Open Technology Alliance
+498,Alana Xiang,Large Scale Protein Modeling in DeepChem,Open Chemistry
+499,Alexis Ehret,Reworking Rizin's binary loading,Rizin
+500,Marcos Lerones,Dhall bindings to TOML configuration language,Haskell.org
+501,Akash Gupta,"Implement a ""Series"" entity",MetaBrainz Foundation Inc
+502,Sahan Dilshan,Lifecycle Management of DBpedia Neural QA Models - Sahan Dilshan,DBpedia
+503,Ankur Saini,Extending C++ support for static analysis pass,GNU Compiler Collection (GCC)
+504,anubhav sharma,Android FHIR Client,Google FHIR SDK
+505,Yeming Gu,Yeming Gu's GSoC proposal for CHAOSS,CHAOSS Project
+506,Jimil Desai,Runtime plugin ecosystem support for OCIS,CERN-HSF
+507,Aadi Bajpai,Beacon Backend,CCExtractor Development
+508,Utkarsh Maheshwari,Increase support for time-series and regressions (Python),NumFOCUS
+509,Captain Yoshi,Creation of a Benchmark Suite,MoveIt
+510,Rashmi K A,Sorting Hat - Extend data model and user interface to capture better information about contributors,CHAOSS Project
+511,Indraneel Ghosh,Simple Enrichment Tool for Analysis,National Resource for Network Biology (NRNB)
+512,Binh-Minh Tran-Huu,Center of Satellite Signal in the Frequency Domain,AerospaceResearch.net
+513,Linden Disney-Hogg,Rigorous integration and the Abel-Jacobi map,SageMath
+514,Ramanujan,DNSTool Middleware/API,SCoRe Lab
+515,D Ajay Kumar,enviroCar Platform Independent App,52°North GmbH
+516,Mainak Deb,Upgrading DevoLearn,INCF
+517,Eyvaz Ahmadzada,Media Manager,Joomla!
+518,Okonkwo Ifeanyichukwu,Ideas for Google Summer of Code/Morphological analyser,Apertium
+519,DhairyaJain,Add Robust Betas to Performance Analytics,The R Project for Statistical Computing
+520,amanpro30,Login/Signup Implementation,OWASP Foundation
+521,Srijan Paul,Closures in Pallene,LabLua
+522,Nektarios Gkikakis Fifes,AsyncAPI Application simulation,Postman
+523,vsquareg,High Performance Data Channel for Duet,OpenMined
+524,Ioannis Papadopoulos,"""PackageInfo WebApp""",GFOSS - Open Technology Alliance
+525,Sanjiban Sengupta,ROOT Storage of Deep Learning models in TMVA,CERN-HSF
+526,Jeevi,DNSTool proposal,SCoRe Lab
+527,Nithin Jaikar,DUMP SHARED MEMORY IN USER-MODE,CRIU
+528,Olivian,Haskell in CodeMirror 6,Haskell.org
+529,Siras Hakobyan,"TumorComparer, updated version",National Resource for Network Biology (NRNB)
+530,Jakub Jelinek,Handling compiler arguments,Fortran-lang
+531,Shivaditya Shivganesh,Neural network-based object detection of anatomical structures and medical artifacts in Virtual Reality,LibreHealth
+532,Rishi Purwar,Contributing to Postman Public Workspace,Postman
+533,Vishal Dalwadi,Support for Contextual Query Language,Polypheny
+534,Amlan Kumar Nandy,Improve LabelLab Mobile Application,SCoRe Lab
+535,Aditya Mitra,Out Of Office Settings with an Assigning Deputy - GSOC 2021 - Aditya Mitra,Rocket.Chat
+536,Nuwan Jayawardene,Containerisation of Apache Synapse ESB,The Apache Software Foundation
+537,Dongjia Zhang,Scheduler for LibAFL,AFLplusplus
+538,Aidan Marshall,Deep learning homology inference,Genome Assembly and Annotation
+539,Vadim Abzalov,[NetworkX] Pedagogical Interactive Notebooks for Algorithms Implemented in NetworkX,NumFOCUS
+540,Emiljano Gjiriti,Coverage-guided mutation-based fuzzing for WebGPU,Android Graphics Tools Team
+541,srkltg,DNSTool Web Application,SCoRe Lab
+542,Vasily Ilin,Efficient Spatial Simulations in DiffEqJump,NumFOCUS
+543,Preet Vadaliya,Custom Font Typeface Support,MIT App Inventor
+544,yuqi (alyssa) chen,proposal for Enable Clang/LLVM Build for Microsoft Windows,TianoCore
+545,YoungHwan Joo,Develop Performance Farm Benchmarks and Website,PostgreSQL
+546,Aneesh Chawla,OpenForBC,CERN-HSF
+547,Ferran Delgado Garcia,Crop Doc Terminal TPU,Liquid Galaxy project
+548,pschreiber,Freifunk Digital Twin - test on your virtual mesh before going productive,freifunk
+549,Sunit Roy,TensorFlow Lite examples for Natural Language Processing,TensorFlow
+550,Ayush Singh,Calibrate SDR+,AerospaceResearch.net
+551,Neel,Lambert W Distributions in Stan,NumFOCUS
+552,Sarthak_Gupta,Sugarizer Measure activity,Sugar Labs
+553,Ishan Kumar Kaler,General Midi Mad Dash,Purr Data
+554,Vineet Jain,WARP-V Many-Core in the Cloud,Free and Open Source Silicon Foundation
+555,Kinar Sharma,Functional Enhancements to Fineract CN Mobile,The Apache Software Foundation
+556,Aditya Wagh,Maxima Demo and Documentation Tool.,INCF
+557,Anubhav Sharma-1,Retraining models from ORES to be deployable on Lift Wing,Wikimedia Foundation
+558,Pankaj Yadav,Local DB support for SBGN maps in Newt,National Resource for Network Biology (NRNB)
+559,Evgeniia Karunus,SciUnit: integration with NetPyNE and other simulation environments,INCF
+560,Ilia Ilmer,Parameter Identifiability with ModelingToolkit.jl,NumFOCUS
+561,Shaik Ajmal R,Building a AI Based Web Application firewall,OWASP Foundation
+562,David Davó,Fixing ihaskell-widgets,Haskell.org
+563,Rahul Anand,3Scale - Envoy proxy authorization cache,JBoss Community
+564,Abhay0O7,Implement DepClean Gradle plugin and support for multi-module analysis,CASTOR
+565,Songlin Jiang,Customize IBus Extension,openSUSE Project
+566,Aman V. Singh,SecureTea - Improvement in Features,OWASP Foundation
+567,Anastasiia Sedova,Relation Extraction,DeepPavlov
+568,geolas,"Pocket Paint for Android: Hide the top and bottom bars, and make the drawing surface full screen by default",International Catrobat Association
+569,Farjad Ilyas,"""Migrating to Scoped Storage"" By Farjad Ilyas, 2021",AnkiDroid
+570,Arpit Bhalla,"Migrating Hooks, Tests & APIs",React Native Elements
+571,Xuanda Yang,Implement Escape Analysis in Julia Compiler,The Julia Language
+572,Alexis Newton,Implement Small Groups,SageMath
+573,Zeeshan Equbal,Improving Zulip’s terminal interface.,Zulip
+574,Dhruv Vats,Integrating Multitaper Periodogram into Stingray,openastronomy
+575,NIKITA MAHOVIYA,Develop GUI for ImageJ groovy script calling VCell API,National Resource for Network Biology (NRNB)
+576,Rahul Saini,Frontend Inline editing,Joomla!
+577,Duong Dac,Improve the OpenCV Python package with type annotations and type checking,OpenCV
+578,Rishi R,Machine Learning for Macro Diffusion Indexes,The R Project for Statistical Computing
+579,Prateek Pardeshi,Pidgin: Account Creation/Edit Assistant,Pidgin Instant Messenger
+580,Xingyu Liu,Improve performance through the use of Pythran,Python Software Foundation
+581,Rahul Babu Shrestha,"Implementing locality sensitive hashing to compare large scale, out of core machine learning datasets",Python Software Foundation
+582,Rikito Taniguchi,Add synthetics and symbol information for semanticdb in Scala 3,Scala Center
+583,Yulia Kuzovkova,Support for RFC 7670 (Generic Raw public key support),The Libreswan Project
+584,Somil Jain,Design Challenge,Cuneiform Digital Library Initiative (CDLI)
+585,José Manuel Díaz Urraco,DBpedia Spotlight Dashboard: an integrated statistical information tool from the Wikipedia dumps and the DBpedia Extraction Framework artifacts,DBpedia
+586,Nishit Patel,Tracker-miners: File creation time,GNOME Foundation
+587,Maija Utriainen,Implementing multiple clustering algorithms and dimensionality reduction techniques on clusterMaker2,National Resource for Network Biology (NRNB)
+588,Devyansh Chawla,Develop a UserScript/Gadget tutorial on MediaWiki.org similar to Wikipedia:The_Wikipedia_Adventure,Wikimedia Foundation
+589,Jose Giraldo,Sounds similar for me: Using open embeddings to improve sampling on orcAL Tool,Orcasound
+590,Hashim,DFFML : Enhancing User Experience with Notebook Examples for Machine Learning Use Cases.,Python Software Foundation
+591,Manan Sharma-1,Newman Dashboard,Postman
+592,Jean Staquet,Channel's Calendar View,Rocket.Chat
+593,Huu Long Nguyen,Particle Swarm Optimization for Hyperparameter Tuning in MLJ,The Julia Language
+594,Nirmal Praveen Suthar,Generate a JSON Representation of the Specification from Structured Markdown,SPDX
+595,Hrithik Kumar Verma,MISSION SUPPORT SYSTEM (MSS) : GENERATING A TOOL CHAIN TUTORIAL FOR THE MSUI USER INTERFACE BY AUTOMATION OPERATIONS,Python Software Foundation
+596,Hari Krishna,Develop a web based monitoring dashboard to improve and monitor existing database backup inventory processes and improve long term maintainability of existing code,Wikimedia Foundation
+597,CastilloDel,Pure Rust serverless htsget implementation,Global Alliance for Genomics and Health
+598,Jayaraj,CalibrateSDR,AerospaceResearch.net
+599,Trung Kien Dang,"A Python - Scala integrated environment with Almond, Ammonite and ScalaPy",Scala Center
+600,Abhishek Zade,Compatibility for Touch Devices,CircuitVerse.org
+601,Adarsh Kumar Singh,Classroom and Doubt forum feature in Mobile Application.,JBoss Community
+602,Chukwuemeka Okechukwu,DIAL ODK-X New Date Prompts For ODK-X Survey Proposal,Digital Impact Alliance (DIAL) at UN Foundation
+603,Hugo Flores Garcia,Source Separation and Extensible MIR Tools for Audacity,Audacity
+604,Sidharth Anand,Smart Tempo in MuseScore 4,MuseScore
+605,Adithya Vardhan,Channels Discovery,Rocket.Chat
+606,Sushanth Rao,Writing of RBS Files,Ruby
+607,Maayami,SCoRe Lab's Gitter ChatBot,SCoRe Lab
+608,Farees Hussain Syed,End-to-End Testing Support,Oppia Foundation
+609,Stuti Mohgaonkar,Create p5 Music examples - interactive and generative,Processing Foundation
+610,Apoorva Vikram Singh,Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing,Machine Learning for Science (ML4SCI) Umbrella Organization
+611,Albert Font,Electronics Monitor Board (EMB),Liquid Galaxy project
+612,Ioannis Sina,Creation of a multi user audio first annotation tool,GFOSS - Open Technology Alliance
+613,tpw_rules,T1220 AXIOM Beta nMigen Support,apertus° Association
+614,Apurv Gupta,UX Enhancements,The Apache Software Foundation
+615,Georgios Pipilis,Machine Learning Model for the Albedo of Mercury,Machine Learning for Science (ML4SCI) Umbrella Organization
+616,freyam,Visualizing Performance Characteristics of Computations,NumFOCUS
+617,xing-zhi jiang,autocomplete and related feature,MariaDB Foundation
+618,Panos Korovesis,Make SVM format independent of the VCL Metafile + test of the format,LibreOffice
+619,Arsh Sharma-1,General Improvements to User Experience in Javis,The Julia Language
+620,Jayesh Nirve,Cross platform GUI for CCExtractor,CCExtractor Development
+621,Chukwuebuka Ezike,Add gdb pretty printer support for Qt5,KDE Community
+622,Liviu-Alexandru Bud,Add dynamic load module support for SOF,The Linux Foundation
+623,Aditya Srivastav,Custom Picture Selector for upload in Commons app,Wikimedia Foundation
+624,Carol Mak,Involutive Markov Chain Monte Carlo in Turing,The Julia Language
+625,Raj Ranjan,Agora Blockchain,AOSSIE
+626,rutvik chandla,Talawa - Mobile App,The Palisadoes Foundation
+627,Piyush_Kumar,bugRzilla: Helping submitting issues to R,The R Project for Statistical Computing
+628,Esteban Blanc,Implement io_uring in gVisor,gVisor
+629,Eraraya Ricardo Muten,Quantum Convolutional Neural Networks for High Energy Physics Analysis at the LHC,Machine Learning for Science (ML4SCI) Umbrella Organization
+630,David Romero Bascones,Population-specific tractography bundle atlas creation,INCF
+631,Atharva Pusalkar,New GUI widgets in Ignition Gazebo,Open Robotics
+632,David Port Louis,Implementation of Example Zoo for mlpack,mlpack
+633,Emre Kurtoglu,Graph Neural Networks for Particle Momentum Estimation in the CMS Trigger System,Machine Learning for Science (ML4SCI) Umbrella Organization
+634,Khyati Saini,Groundwork for platform independent app,52°North GmbH
+635,Aditya Kapoor,Improvement of a Social Navigation component,RoboComp
+636,Kuter Dinel,Improve inter-procedural analyses and optimizations,The LLVM Compiler Infrastructure
+637,Sai Prasanth Duvvuri,Matrix Exponentials,Chapel
+638,Bingchang Chen,TiKV: High-performance Data Import Tool,CNCF
+639,Qi Zeng,Translate ERDDAP User Interface Into Different Languages,Integrated Ocean Observing System (IOOS)
+640,Kelvin Kipkorir,Container-based backend for openQA,openSUSE Project
+641,Georgios Kosmas,hashesdb (Georgios Kosmas),GFOSS - Open Technology Alliance
+642,ricardoV94,[PyMC3] Make SMC-ABC faster and more flexible,NumFOCUS
+643,Huaxi Jiang,Enhance verification for APISIX ingress controller,The Apache Software Foundation
+644,Delton,The Next Step of Ruby 3 Fiber Scheduler,Ruby
+645,Chandan,Migrating industrial robot manipulation exercises to web server,JdeRobot - Universidad Rey Juan Carlos
+646,Jeffrey Cochran,Improvements to Godot Soft-body Dynamics,Godot Engine
+647,Jayasanka Weerasinghe,E2E Automated Tests for the OpenMRS 3.0 RefApp,OpenMRS
+648,Vineet Sharma,Modernizing Administrative functions for OpenMRS: Clinical Data Management,OpenMRS
+649,Saurabh,OpenMRS Android Client 3.0.x,OpenMRS
+650,Huzi Cheng,A Full-featured Web Dashboard  for Optuna to Monitor Optimization History,NumFOCUS
+651,Fatih ATES,CNCF - CNB - Jenkins Plugins,CNCF
+652,Mahmoud Mandour,TCG Plugin: Cache Modelling,QEMU
+653,Leonardo Coelho Ruas,Liquid Galaxy Retro Gaming,Liquid Galaxy project
+654,Purushottam Tiwari,"Improve stream management, message viewing and left sidebar",Zulip
+655,Kushal Kumar,CiceroMark<->OOXML,Accord Project
+656,Mridul,Improving Front-End Typed System,Oppia Foundation
+657,Mustafa Dhar,3D Viewer Integration,Cuneiform Digital Library Initiative (CDLI)
+658,Abdullah Deshmukh,Flutter Desktop Tool,Dart
+659,Shiv Charan Sharma,Automate Reinforcement Process of Slab and Footing in FreeCAD,BRL-CAD
+660,Angad Kambli,Add pseudo-localization to better spot untranslated strings and unexpected layout changes caused by long strings,Godot Engine
+661,krishna11,Cloning and compatibility improvements for Snare,The Honeynet Project
+662,Akihiro Kiuchi,Jenkins Remoting Monitoring,Continuous Delivery Foundation
+663,Ninad Bhat,Extending the AiiDA REST API towards workflow management,NumFOCUS
+664,Elias Little,What You See Is What You Rest Security,The Julia Language
+665,Frinksy,Extend Ruma's API coverage,Matrix.org
+666,Chandan Prakash,Music Blocks Debugging Aids,Sugar Labs
+667,Ashutosh Bharambe,Adding Integro Differential Equations and Improving symbolic representation of geometry in PINNs,NumFOCUS
+668,Kushagra Gupta 99,Critical efficiency improvements of mcmcse,The R Project for Statistical Computing
+669,Prathamesh Tagore,Boost.Gil : 2D convolution and correlation,Boost C++ Libraries
+670,Anurag Akella,Implementing an application for visualizing the LHCb DAQ network,CERN-HSF
+671,Khushal Agarwal,Automatically generate docs from the components,React Native Elements
+672,Arthur Cohen,Cargo tool for Rust-GCC,GNU Compiler Collection (GCC)
+673,Sarthak Khattar,IntelOwl Improvements,The Honeynet Project
+674,Goutam Verma,SimpleCMS E.S.,Liquid Galaxy project
+675,Suyog Garg,Add a CDS-ASCII writer to astropy,openastronomy
+676,Yang Yang,Push the URL relationship editor to the next level,MetaBrainz Foundation Inc
+677,Dhruva Gole,Bela support for the BeagleBone AI and/or future TI boards,BeagleBoard.org Foundation
+678,Divyansh Jain,GSOC proposal for Nettacker,OWASP Foundation
+679,Edward HUI,Spectral Selection Tools,Audacity
+680,Ke Zhang,Proposal for Apache SkyWalking: Python agent supports profiling,The Apache Software Foundation
+681,Anastasiy Belyaev,C++ connector enhancement,Tarantool
+682,Kodjo Laurent Egbakou,Added new features to  LibVLCSharp and fixed bugs,VideoLAN
+683,Shruti Agarwal,Migration of UI into React.js,FOSSology
+684,Hwarim Hyun,Implementing Work Stealing on Nemo,The Apache Software Foundation
+685,Abhinav Anand,Improvisation and Implementation of ANN Modules,mlpack
+686,Vishal Sharma,Sample/Skeleton Plugins in GOI Supported Languages,Xfce
+687,Shreyan Ganguly,Machine detection of film edits,Red Hen Lab
+688,Alejandro Domínguez,Fractal: Multi account support,GNOME Foundation
+689,ketangupta34,Java Loader using Java Native Interface,MetaCall
+690,BHARAT BIRADAR,SPDX license detection package,Dart
+691,Yash Kumar Verma,RBAC Authorization with Cache Implementation using higher order functions,caMicroscope
+692,Shrey Sachdeva,Development of a user interface to visualise VEP data using neXtProt tools,Open Bioinformatics Foundation
+693,Purva Chaudhari,End-to-End Deep Learning Reconstruction for CMS Experiment,Machine Learning for Science (ML4SCI) Umbrella Organization
+694,Guang Zhang,"Update DBpedia Sparql for newly updated wiki resources and specifically related to pandemic, healthcare, and heath AI fields",DBpedia
+695,Sahaja Belaganti,Upgrade OAM implementation in Crossplane to latest release of spec,CNCF
+696,Nishal Kulkarni,Implement active resource management in GNOME,GNOME Foundation
+697,Vedant Shah,Extending Deepbots to evolutionary algortihms,GFOSS - Open Technology Alliance
+698,Tanishq Gupta,gtfBase- A curated resource of multispecies genomic regions,Open Bioinformatics Foundation
+699,SeifEldeen Emad,Image Sensor Simulation/Emulation,apertus° Association
+700,Gerardo Duran-Martin,TensorFlow Proposal for the Convert Matlab ML examples to Python / JAX project,TensorFlow
+701,Jakub Duchniewicz,GPGPU with GLES API,BeagleBoard.org Foundation
+702,Utpalendu Barman,Integrate MJML / GrapeJS Newsletters,CiviCRM LLC
+703,Pawan Wadhwani,Deep Reinforcement Learning for precise robot grasping and object manipulation,RoboComp
+704,Karine Pistili,Reforestation Assistant & Simulator,Liquid Galaxy project
+705,Rijuta Singh,Integrating the Oppia blog with Oppia.org,Oppia Foundation
+706,isolte,glTF virtual environment loading,xrdesktop
+707,Parth Kanakiya,OpenMRS GSOC-21 Proposal,OpenMRS
+708,Divyam Ahuja,Finishing implementation of unfinished Game Engines,ScummVM
+709,Manuel Drehwald,Integrating Enzyme into Rust,The LLVM Compiler Infrastructure
+710,Anurag Gupta,Implement reusable GA4GH UI clients,Global Alliance for Genomics and Health
+711,Saptarshi Majumder,RGW:S3 SDK Compatibility,Ceph
+712,Ali Eren Yogurtcu,FastFingers Application Development,CCExtractor Development
+713,Sarthak Garg-1,Improve User Experience in Zulip Terminal,Zulip
+714,Lara Lazier,Complete AMD virtualization emulation,QEMU
+715,Harsh Prakash Gupta,Add support for in-browser interactive averaging of physics results,CERN-HSF
+716,Ish Bosamiya,Continued Development on Adaptive Cloth Simulator for Blender,Blender Foundation
+717,Medhavi Srivastava,Support for Extended Operations in FHIR,OpenMRS
+718,João Vitor F. Cavalcante,R Community Explorer - Exploration of the R community on Twitter,The R Project for Statistical Computing
+719,Hiebl,Unified Catrobat Language Brick Syntax,International Catrobat Association
+720,Oskar Walcher,Search functionality for bricks in Pocket Code,International Catrobat Association
+721,Nicolas,A step forward on Shaka Player’s User Interface,Shaka Player
+722,Ameya Deshpande,IPv6 Nix-Vector Routing,The ns-3 Network Simulator Project
+723,Arjun Taneja,Improving Accessibility for the Visually Impaired,MuseScore
+724,ArunagirinadanSudharshan,Implementing integration tests using Gherkin language,Ceph
+725,Swadesh Jana,Create a Red Hen OpenDataset for gestures with performance baselines,Red Hen Lab
+726,kinshuk,"Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic",INCF
+727,Mohit,Microsoft Word Integration,JabRef e.V.
+728,Rohit Goswami,LFortran and Computational Chemistry,Fortran-lang
+729,Dilith Jayakody,Curve Improvements,Blender Foundation
+730,Sudhanshu Kumar P,DFFML : Add data cleanup dataflow operations and sklearn accuracy scorers,Python Software Foundation
+731,Nitin Mishra,TensorCore Extension for Deep Learning,Free and Open Source Silicon Foundation
+732,Yash Agrawal,Add zoom and pan to the Wikisource Pagelist Widget,Wikimedia Foundation
+733,Kaushlendra Pratap Singh,Copyright False Positive Detection Using ML,FOSSology
+734,Siger,Lua scripted watchpoints in LLDB,LabLua
+735,Danish Jamal,Fineract Client,The Apache Software Foundation
+736,Hanxi Guo,"Proposal for ""Accelerate OpenCV.js DNN via WebNN""",OpenCV
+737,Manav Nair,eMMC Plugin Firmware,apertus° Association
+738,Kai A. Hiller,Fractal NEXT,GNOME Foundation
+739,Mohit Balwani,Refactor the ODE module and make it fast,SymPy
+740,Sai Bhushan,Improve Test Coverage in p5.Sound library,Processing Foundation
+741,Kamil Albrycht,React diagram component library for creating pedigree drawings tools,Global Alliance for Genomics and Health
+742,Aditi-Singh,OpenWrt Device Page,freifunk
+743,Anastasia Neklepaeva,Various SQL VM improvements: threaded interpretation and instruction merging,Tarantool
+744,sp35,IntelOwl Connectors Manager and Integrations,The Honeynet Project
+745,Crane yang,Macromedia Director,ScummVM
+746,Jingchen YE,Speeding up string operations,mypy
+747,parth-07,Add support for functor objects in clad,CERN-HSF
+748,Peddi Sai Varshith,Integrate an optical microscope with a camera and motorized stage - Collaboration with FDA,caMicroscope
+749,Xin Yue Chen,Turn All References Blue,Internet Archive
+750,lusceu,Implementing DDiMon for Windows and Linux using Bareflank,The Honeynet Project
+751,jasondk,Pin Tracks & Review Tracks Through CritiqueBrainz,MetaBrainz Foundation Inc
+752,Roberto Rosmaninho,LLVM Back-end for the Tensor Algebra Compiler (TACO),Python Software Foundation
+753,Pokemod97,Terminal Driver Improvements,TianoCore
+754,michaeokoko,Use JSON as on-disk format for Histograms,MariaDB Foundation
+755,Meet Bhatnagar,R Conference Events Explorer,The R Project for Statistical Computing
+756,Anjani Kumar,Port digiKam to Qt6 on Linux,KDE Community
+757,Magali Lemes,Improving statistics from kw,The Linux Foundation
+758,earthshakira,Query the Blockchain,Polypheny
+759,adi10hero,Semantic Versioning Plugin for Jenkins,Continuous Delivery Foundation
+760,Aditya-Dubey,Move custom JS\TS lint checks to eslint,Oppia Foundation
+761,Anand Kumar,Automatic Lineshape Engine,openastronomy
+762,suraj kulriya,Make All Filter Functions Work Well Even Without PPD Files,The Linux Foundation
+763,Ida Delphine,Code Formatting and Style Check for RTEMS SuperCore (score),RTEMS Project
+764,Alexandros Manochis,High dimensional geometric computations with least matrix inequalities,GeomScale
+765,Zhipeng Zhao,Social Knowledge Graph: Employing SNA measures to Knowledge Graph,DBpedia
+766,Riken Shah,Removing Unused CSS & Working On Developer Tooling Area,Zulip
+767,Pritam Saha,Develop a Cytoscape App for the Casual Path Algorithm,National Resource for Network Biology (NRNB)
+768,Yash Patel,Migrate Web Presence to new Module Site,The Terasology Foundation
+769,Matvey Luboshnikov,Replacement of deprecated GTK classes,Synfig
+770,Michal Klein,Using machine learning to seed LLVM’s attributor pass,The LLVM Compiler Infrastructure
+771,Gaurav Genani,Expose Cilium Config to CLI Tool,Cilium
+772,Pratik Baid,Flood Mobile App,CCExtractor Development
+773,Hrithik Kumar,Coding style checker bot for Gerrit,Haiku
+774,Kacper Kujawski,Webots integration,RoboComp
+775,Harsh Mishra,Improving User Experience Of Frontend and Enabling User Personalisation,AOSSIE
+776,Rakshita Varadarajan,New protocols for exascale data management with Rucio,CERN-HSF
+777,Srikar Reddy Jilugu,Converting ML Matlab Examples to Python using JAX,TensorFlow
+778,Svea Marie Meyer,Project 9.5: Classification using EEG,INCF
+779,Priyanshu Jain,Finish the new web interface,Kodi
+780,ThenoobMario,Implementing GPU Accelerated Sub-gridding,gprMax
+781,Tejasvi Gupta,Interactive Graphics for ChemoSpec,The R Project for Statistical Computing
+782,Anshu Khare,Sidebar Task,LibreOffice
+783,Anshuman Singh,Refactor Multi-Task BERT,DeepPavlov
+784,Amish Garg,TensorFlow Lite Flutter Support Suite Enhancements,TensorFlow
+785,Diptanshu Mittal,A Django Platform for comparing scientific methods for analyzing neural time series analysis methods,INCF
+786,Xinyu Zhou,Refactor Casbin.js and other optimizations on pycasbin and node-casbin,Casbin
+787,mikit,Faster and Accurate License Matcher,SPDX
+788,Harsh Bardhan Mishra,Development of Jupyter Kernel for MetaCall Core,MetaCall
+789,Hongli Zhao,SageMath: Efficient Tensor Calculus Backend and Numerical Tensor Arithmetics via Tensor-Train,SageMath
+790,Ahmat Hamdan,Inference Code Generation for Recurrent Neural Networks,CERN-HSF
+791,Adrij Shikhar,SenZ Project Proposal,SCoRe Lab
+792,Hyeongyu Kim,Fix miscompilation issues in LLVM IR using the ‘Freeze’ instruction,The LLVM Compiler Infrastructure
+793,Siddharth Saha,ROS2-RADI and Single Robot Amazon warehouse exercise in web-based template,JdeRobot - Universidad Rey Juan Carlos
+794,Anais Gonzalez,Improving the p5.xr Library Through Artistic Examples,Processing Foundation
+795,Diego Porras,SKF support for interactive vulnerability fixing.,OWASP Foundation
+796,Yifan Wang,Project Proposals for TF Core and Model Garden,TensorFlow
+797,Konstantin Sidorov,Improving OpenMP code generation with prediction of runtime parameters,The LLVM Compiler Infrastructure
+798,Tirth Patel,Integrate library UNU.RAN into scipy.stats,Python Software Foundation
+799,Varun Jain,Functional Enahancements To Fineract CN Mobile Application,The Apache Software Foundation
+800,Yash Prakash,Automate Metrics Release and Process Improvement,CHAOSS Project
+801,Diego Urgell,Binary Segmentation Package,The R Project for Statistical Computing
+802,Shashwat Dalakoti,Exercise using Deep Learning for Visual Detection,JdeRobot - Universidad Rey Juan Carlos
+803,Anaswara T Rajan,SWAN support in oCIS,CERN-HSF
+804,Jayesh Desai,Modular DBpedia Chatbot,DBpedia
+805,Chetan Karwa,Linked List in stdlib of Fortran-lang,Fortran-lang
+806,Rohan Mallick,Smart Pens,caMicroscope
+807,Tarindu Jayatilaka,Machine Learning Guided Ordering of Compiler Optimization Passes,The LLVM Compiler Infrastructure
+808,Ashutosh Kumar-1,DBpedia Live Neural Question Answering Chatbot - GSoC2021,DBpedia
+809,Fawzi E. Abdulfattah,Enhancing the EOS-icons [Backend],Python Software Foundation
+810,Anushka Chakraborty,Feature Implemetation and Ui Development of Android FHIR,Google FHIR SDK
+811,Suraj Choubey,GeomScale: Monte Carlo Integration,GeomScale
+812,Martin Gius,TidalCycles API and editor plugin,Haskell.org
+813,Manjot Sidhu,Interactive Book Integration for Mobile App,CircuitVerse.org
+814,Aditya R Rudra,Improving Test Coverage and Implementing CI/CD in BrainBox,INCF
+815,Shubhaditya Burela,Implementing an Unsteady Vortex-Lattice aerodynamic element,MBDyn
+816,Sourabha G,Improve and maintain 15 Sugar activities,Sugar Labs
+817,CaitlinHaedrich,Improved Integration of GRASS GIS and Jupyter Notebooks,OSGeo - Open Source Geospatial Foundation
+818,Aitik Gupta,Matplotlib: Revisiting Text/Font Handling,NumFOCUS
+819,Angelina Panagopoulou,matrixStats: Consistent Support for Names Attributes,The R Project for Statistical Computing
+820,Aakash Hemadri,Analysis and fixing of race condition warnings in the Linux kernel,The Linux Foundation
+821,Tim Reichelt,GPU Support for AdvancedHMC.jl,The Julia Language
+822,George Dialektakis,Deep autoencoders for ATLAS data compression,CERN-HSF
+823,Ilya Zarubin,RcppSMC - support for modern Monte Carlo methods,The R Project for Statistical Computing
+824,Marc P. Masó,Tools for visualization and efficient editing,Open Chemistry
+825,Amey Varhade,Machine Learning for Turbulent Fluid Dynamics,Machine Learning for Science (ML4SCI) Umbrella Organization
+826,pingport80,Improving Post-Exploitation API,Metasploit
+827,Shashwat,Create web components for FHIR Resources,LibreHealth
+828,Nikolaos Kokkinis,DeepbotsZero,GFOSS - Open Technology Alliance
+829,Divyam Singal,Boost.Real: Modifying internal representation of operation and improving math functions,Boost C++ Libraries
+830,Saurav Shrivastav,Improve pgeu-system for Conference Management,PostgreSQL
+831,Mugilraj D,IIO Driver: AD4695 ADC,The Linux Foundation
+832,Tushar Guha Neogi,GSOC Proposal 2021 Bench-Routes,Bench-Routes
+833,Oliver Madine,Haskell Language Server: Symbol Renaming,Haskell.org
+834,Sugam Srivastava,ZFS root support(bootloader and mount_root),The NetBSD Foundation
+835,aley,Tensorflow Proposal,TensorFlow
+836,Dimitrios Iatrakis,Add support for OAuth2 Login (i.e. OpenID Connect) authentication to factotum,Plan 9 Foundation
+837,Antonin Jolivat,QA Reports Extraction Tool,OpenStreetMap
+838,Punit Lodha,Rewrite 708 decoder in Rust,CCExtractor Development
+839,Shreyaa Sharma,Reporting Ceph issues from the Ceph-Dashboard,Ceph
+840,Pranjal Singh,Fuzzing Xen with Xen,The Honeynet Project
+841,Sang Truong,Refactoring of hyperSpec R Package,The R Project for Statistical Computing
+842,Chinmay Vibhute,A Testing Framework for Niffler DICOM frameworks for Continuous Integration,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+843,Vladyslav Hnatiuk,PyQuotient,Matrix.org
+844,Lucas Wang,Framework update and rewrite of the KDE Connect iOS Application,KDE Community
+845,Arib Alam,Tardis Setups Framework,TARDIS SN
+846,Vishnu Madhav,Make Cp-demangler non recursive,GNU Compiler Collection (GCC)
+847,Pranshu Kharkwal,Create a single universal CUPS filter to replace the chain of individual filters,The Linux Foundation
+848,Kaustubh Chaudhari,New Version Refactoring,NumFOCUS
+849,Rohit Sutradhar,Tutorial for Universal Intrinsics and parallel_for_ for efficient cross-platform algorithm implementation,OpenCV
+850,Khushal Uttam,Kotlin Refactoring and MVVM Implementation,International Catrobat Association
+851,Quanwen Chen,List Configuration Tool,GNU Mailman Project
+852,Shayan Majumder,CCSDS File Delivery Protocol in MicroPython,LibreCube Initiative
+853,pruhnuhv,Improving the Raspberry Pi BSP,RTEMS Project
+854,Lahiru Udayanga De Silva,3scale - Envoy proxy authorization cache,JBoss Community
+855,Rafael Badell,Implementation of sensor and actuator models in Cubesat Simulator,AerospaceResearch.net
+856,Valentin Boettcher,KStars DSO Overhaul,KDE Community
+857,Naveen Sai,Rational Solutions of Riccati ODEs,SymPy
+858,Nolan Windham,Open Book Genome Project,Internet Archive
+859,Shiyu Liu,Diversity transformation class space and implement Coverage-guided mutation-based fuzzing for WebGPU,Android Graphics Tools Team
+860,leachim,Improving Turing’s documentation and tutorials,The Julia Language
+861,Niteesh Babu G S,"Interactive, asynchronous QEMU Machine Protocol (QMP) text user interface (TUI)",QEMU
+862,Egor Zverev,Extend Data Pipelines to cover more data products,MapAction
+863,Rahul Saxena,GSoC 2021 Proposal Productionizing bddashboard,The R Project for Statistical Computing
+864,Flynn,A Privacy-Respecting Email Service for Personal Servers,Debian
+865,Ishan Vatsaraj,TVB for Jupyter and Collaboratory,INCF
+866,Daniel Ko,try.spinnaker.io,Continuous Delivery Foundation
+867,mmalenic,Pure Rust Htsget Implementation,Global Alliance for Genomics and Health
+868,Phuoc-Khanh LE,digiKam Image Quality Sorter algorithms improvement,KDE Community
+869,Sylwia Majchrowska,Modelling complex materials electromagnetic properties in gprMax software,gprMax
+870,Aryan Verma,CovCT: Development of an AI-based Android Application for distinguishing COVID-19 and Pneumonia using Computed Tomography Images and generate reports for analysis,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+871,Paula Marin,SatNOGS Network data visualizer for Liquid Galaxy,Liquid Galaxy project
+872,Anuradha Pandey,"Adopt an unreleased language pair, Hindi-Bhojpuri",Apertium
+873,Prakhar Saxena,Continuum Mechanics: Creating a Rich Beam Solver and Extending Continuum Mechanics Module,SymPy
+874,Esandha Vithanage,S-ChainX: Product Hunter,SCoRe Lab
+875,Suraj Kumar Mahto,KMyMoney : Integration of the new functionalities from the Alkimia library,KDE Community
+876,Aman Gupta,Awesome Demo Game Project : King Of Batona,International Catrobat Association
+877,Aleksei Dorkin,Automatic Qualia Extraction and Annotation Tools,FrameNet Brasil (UFJF)
+878,Cédric Dollet,Colour-Science for python,NumFOCUS
+879,Akash Saini,Brokering Continuous Delivery through the ELIXIR Cloud service registry,Global Alliance for Genomics and Health
+880,Priyanshu_Agarwal,PyBaMM - Printing formatted equations,NumFOCUS
+881,Dmitry Volodin,25 Dmitry Volodin Github Action Workflows for Scheduled Algorithm Deployment,Orcasound
+882,Jakub Rybak,Dimensionality Reduction for Studying Diffuse Circumgalactic Medium,Machine Learning for Science (ML4SCI) Umbrella Organization
+883,Vedant Nandoskar,Real Time Collaborative Pathology,caMicroscope
+884,Raghav Bhatia,Newman request,Postman
+885,Priyank Patel,TypeScript Migration,Zulip
+886,Shiven Tripathi,Analyzing stimulus prediction capabilities of neurons: predictive information estimation methods,INCF
+887,Jenny Yu,Custom Abundance Widget,TARDIS SN
+888,Yash Pandey,"Benchmarking, Python bindings and Migrating to CTest for Casbin-CPP",Casbin
+889,Linda Kladivova,First steps towards a new GRASS GIS Single-Window GUI,OSGeo - Open Source Geospatial Foundation
+890,Namit Chandwani,Develop a Golang-based framework to enhance Knative’s functionalities,JBoss Community
+891,giulio,Simplified external port forwarding and automatic NAT traversal,Qubes OS
+892,Kannav Krishan Mehta,Finalizing and improving the subtensor type,Boost C++ Libraries
+893,Simon Thor,Enhancing the Plotting Functionality in MCnet/Rivet,CERN-HSF
+894,Vladislav Kakurin,Non-blocking multi-thread IO_CACHE,MariaDB Foundation
+895,Adam R. Jensen,Making pvlib python a one-stop source for solar resource data,NumFOCUS
+896,Artemis Georgopoulou,sch-webapps: aggregator for web-based educational material,GFOSS - Open Technology Alliance
+897,Zhengkun Chen,Google summer of code 2021 Application,GNSS-SDR
+898,Sahan Dissanayaka,ImageLab - extend the functionality,SCoRe Lab
+899,Ji Ho Kang,Nemo Optimization by WAN Hierarchical Aggregation and Fidelity Control,The Apache Software Foundation
+900,Aldán Creo,New database search backend,Django Software Foundation
+901,Sahil Grewal,Upgrade WebdriverIO to the latest version 7 for all repositories,Wikimedia Foundation
+902,Aakash Kaushik,Ready to use Models in mlpack,mlpack
+903,Paritosh Singh,Improving Google Search Result On Buddhist Entities.,Project WikiLoop
+904,Saurabh-Gupta,Sugarizer Story Activity,Sugar Labs
+905,Artur Tomczak,Add IDS validation with BCF output to IfcOpenShell,BRL-CAD
+906,Garv Tambi,Computer vision for detecting elements of a vehicle’s environment with RoboComp,RoboComp
+907,Prashant Dodiya,Microfarm For Everybody,coala
+908,alexrockhill,mne-python intracranial electrode localization toolbox,Python Software Foundation
+909,Alejandra Cossío Ch.,Refining Code Critics,Pharo Consortium
+910,thhagelmayer,dd support for error terms with explicit constants to AsymptoticRing,SageMath
+911,Abdallah Ahmed,BibTeX Plugin Project,Joplin
+912,Hemansh Khaneja,Cross-Slide Coordinated Viewing,caMicroscope
+913,Archana Warrier,GSoC Proposal - Causal and counterfactual methods for fairness in machine learning,The Julia Language
+914,Balaji G,DataFrame,Pharo Consortium
+915,Gabriela Bittencourt,Improving workflow with autocomplete feature,Purr Data
+916,Umang Kalra,"Auto-Arrangement of Nodes in GraphEdit, VisualScript and VisualShaders",Godot Engine
+917,Bhavna Kosta,Firmware and other file handling in PAPPL,The Linux Foundation
+918,Miranda Ren,Enhance Project Repository and WebApp of Catalog of Digital Solutions,Digital Impact Alliance (DIAL) at UN Foundation
+919,Yusuf Karadag,Application Proposal for Apache Clerezza,The Apache Software Foundation
+920,Wenzhang Yang,Static analysis for unreachable functions,GNU Compiler Collection (GCC)
+921,Karan Kharecha,User Centric Knowledge Engineering and Data Visualization,DBpedia
+922,Guanglin Huang,Factor analysis based on higher-order moments,The R Project for Statistical Computing
+923,Jiyeon Lee,Inference Latency Estimator with Ensemble of Regression Models,MediaPipe
+924,Akanksha Garg,Detect Unknown Licenses and Indirect License references in ScanCode,AboutCode
+925,Hardik Katehara,Make backend code typed,Oppia Foundation
+926,Rishabh kohale,Interactive viewer for systems-biology variant interpretation (Server-side),Open Genome Informatics
+927,Meenal Jhajharia,Extending Time-Series Models,NumFOCUS
+928,Srihari Humbarwadi,Implementing State of the Art Object Detection Models for Tensorflow Model Garden,TensorFlow
+929,EasonC13,Automatic Identification And Classification of Contract Data Types with NLP,Accord Project
+930,Sarthak Bhardwaj-1,Re: Develop a test framework for checking FreeType's rendering output,FreeType
+931,Ruturaj Mohite,Refactoring Testbench and Automated Testing,CircuitVerse.org
+932,Martynas Jočys,Evolving bdchecks: a biodiversity data quality checks framework,The R Project for Statistical Computing
+933,Kumar Shivendu,Improve the Archive Search,Software Heritage
+934,Akshansh Bhatt,Improving and Expanding Functionalities in Control Module,SymPy
+935,Juan Elias Rodriguez,Proposal by Juan Elias for OpenLex PyAr,Python Software Foundation
+936,Zeping Bai,Enhanced authentication for APISIX Dashboard,The Apache Software Foundation
+937,Sanjay Singh Rajpoot,Hindi Translation for P5.js website,Processing Foundation
+938,Pavindu Lakshan,Apache OODT - Improving OPSUI React.js UI with Advanced Functionalities,The Apache Software Foundation
+939,Sai karthikeya,Bug fixing & Improving User Interface in enviroCar Android,52°North GmbH
+940,Siddhartha Jejurkar,Blender - UV editor improvements,Blender Foundation
+941,Larry Dong,pymc3.dp: Bayesian Stati-sticks for Summer 2021,NumFOCUS
+942,Fikri Yurcel Milano,Android FHIR Client as The Standard Implementation of Android FHIR SDK,Google FHIR SDK
+943,Nathan Wood,Improving GOpt Visualization be Implementing Avogadro as an Alternative to Visualizing Molecular  Dynamics,Open Chemistry
+944,CodeChamp_SS,Pocket Code for Android: Refactoring and Rewriting Production Code and Tests to Kotlin,International Catrobat Association
+945,Sanket Shevkar,Signing Template and Signing Contracts,Accord Project
+946,Niki Ito,Activism Through Storytelling with Code,Processing Foundation
+947,BHAVESH SHARMA,Develop an Android mobile application for newborn clinical decision support,LibreHealth
+948,Utsav Akhaury,Automatic Realization of AI-Based Electromagnetic Models,gprMax
+949,Balaje,A fast finite element interpolator in Gridap.jl,NumFOCUS
+950,Bartłomiej Rasztabiga,The REST of Administration,OpenMRS
+951,Jatin Sharma,Community datasets in TFDS,TensorFlow
+952,Ainhoa Maestro,VISIT THE WORLD HOME EDITION,Liquid Galaxy project
+953,Aryaman Gupta,Improve Exploration save flow: Syncing edits in the background,Oppia Foundation
+954,Micah Kendall,A Lua library for Freechains-P2P,LabLua
+955,July541,Implement missing refactoring in Haskell Language Server,Haskell.org
+956,Kumar Saurabh Raj,"MusicBlocks v4: Friendly, Intuitive, Fast",Sugar Labs
+957,Shridhar Goel,Development of AnkiDroid project,AnkiDroid
+958,Donald Lee,Lua hook points,FRRouting
+959,Shriyanshu Kukreti,Awesome Demo Game Project - Sisters of the Faldroid,International Catrobat Association
+960,GUIFO FODJO A Yvan,Matrix state of the art,Pharo Consortium
+961,Metehan Arslan,Advanced Audio Filters,VideoLAN
+962,Akshit,Add logging support to Simulation Execution Manager (SEM),The ns-3 Network Simulator Project
+963,Daniil Ignatiev,A morphological analyzer for Bagvalal,Apertium
+964,Hồng Quân Trần,Apache James - Implement Thread support for JMAP,The Apache Software Foundation
+965,Roshan Swain,Example Zoo,mlpack
+966,Hang Yan,Enable CUDA builds on CI,Point Cloud Library
+967,Manorit Chawdhry,Implementing Linux support in Drakvuf-Sandbox,The Honeynet Project
+968,Daniel Swanson,Unipertium,Apertium
+969,moki1202,PEcAn in CRAN,PEcAn Project
+970,btut,Improve pdf support in JabRef,JabRef e.V.
+971,Katie Liu,Adding Alt Text,Processing Foundation
+972,Pranav Ballaney,SBML Simulator in Rust,National Resource for Network Biology (NRNB)
+973,Geraldine Galindo,Code Completion in Pharo,Pharo Consortium
+974,Anubhab Das,"Logging, Unit Test Infrastructure and Precooked Sources for PRMON",CERN-HSF
+975,Shyam,Service Market,SCoRe Lab
+976,Adam Leung,VLC Qt interface redesign,VideoLAN
+977,Fahad Israr,Project Starfix : Open anything anywhere in any IDE/editor,JBoss Community
+978,Cyrine Gamoudi,Port SAST and Secret Detection rails platform code to GitLab CE project,GitLab
+979,Apoorva Agarwal-1,Journals Open Review Workflow and Integration,Cuneiform Digital Library Initiative (CDLI)
+980,Manuel Genovés,Libadwaita animation API,GNOME Foundation
+981,Ming Liang Ang,Convert Matlab ML examples to Python / JAX,TensorFlow
+982,orion cohen,A Solvation Module for MDAnalysis,MDAnalysis
+983,Yurii Halychanskyi,Direct Objective Function for Anomaly Detection,Machine Learning for Science (ML4SCI) Umbrella Organization
+984,Rohitesh Jain,Add/Improve tests in Spoon,CASTOR
+985,FromG,Pocket Paint for Android: Additional brush options,International Catrobat Association
+986,Joshua Nsereko,Patch Security Vulnerabilities Identified by NCSU,OpenMRS
+987,Shantanu Kaushik,Adding to p5.js Friendly Error System,Processing Foundation
+988,Sachin Jindal,Reference Image Improvement,KDE Community
+989,Pau Riera i Portillo,[Gridap] Visualizing PDE approximations in Julia with Gridap.jl and Makie.jl,NumFOCUS
+990,Vinayak Sharma,EOS Icons react library,Python Software Foundation
+991,Masood Kamandy,Add Examples and Fix Bugs in Swift Processing,Processing Foundation
+992,Joykirat Singh,MusicBlocks Menus and Palettes,Sugar Labs
+993,Kira Patton,Kotlin & Gradle work for Android Tools project,Debian
+994,Javed Ali,Adding analysis report and Direct import from GEO databases to ABioTrans Plus,National Resource for Network Biology (NRNB)
+995,Nishant Mittal,Template Plugin,Joplin
+996,Samarpan Dutta,"Casbin-Server, Rocket-Authz, JSON-Adapter",Casbin
+997,Thanoshan M.V.,Proofread Oracle DML SQL Definitions for the ShardingSphere Parser,The Apache Software Foundation
+998,Anirban Chetia,Improvements to the directlabels package,The R Project for Statistical Computing
+999,Pulkit Midha,MediaPipe Holistic in Unity,MediaPipe
+1000,Rohit Topi,CernVM-FS preload capability,CERN-HSF
+1001,Ayush Prasad,Adding ICOS and GEDI data streams to PEcAn,PEcAn Project
+1002,Shivam Agarwal,WebStatus Developer Tooling,Chromium
+1003,Callum Brown,Token Authenticated Registration,Matrix.org
+1004,Sanchit (pilgrim2308),Gitmate for coala,coala
+1005,ranjit shah,Frontend reimplementation using react,Digital Impact Alliance (DIAL) at UN Foundation
+1006,anuejn,GUI for AXIOM Recorder,apertus° Association
+1007,Veronia Iskandar,Bring up CV32E40P AI accelerator on FPGA,Free and Open Source Silicon Foundation
+1008,Utkarsh Shendge,Improved UI design and Multilingual Support,The Palisadoes Foundation
+1009,Valerius_B,Freifunk Radio Ressource Management with IEEE 802.11v,freifunk
+1010,Özgür Kara,Graphical User Interface for OpenAI Gym,"Department of Biomedical Informatics (BMI), Emory University School of Medicine"
+1011,Sandeep Saurav,Integrating 3D scene builder as WPS services within MapMint administration User Interface,OSGeo - Open Source Geospatial Foundation
+1012,Azamat Akimniyazov,Develop a prototype MT system for a strategic language pair uzb->kaa,Apertium
+1013,Jianhui Lu,Add monitoring of pg_stat_statements to pg_systat,PostgreSQL
+1014,Ankit kumar,SMART-on-FHIR,OpenMRS
+1015,fibersel,Add ttl for cassandra snapshots,The Apache Software Foundation
+1016,Rushikesh Tote,Lua-Casbin,Casbin
+1017,Aaron Saw Min Sern,Parallelization of existing modules for GRASS GIS,OSGeo - Open Source Geospatial Foundation
+1018,Jaikishan Brijwani,Sugarizer Security and Availability,Sugar Labs
+1019,AYAN BISWAS,Integration of CircuitVerse with LMS Platforms,CircuitVerse.org
+1020,Soumya,Display simulation data for rigid bodies and cloth,Blender Foundation
+1021,Pratyush Das,Integrate custom derivatives of Numerical Computing routines like BLAS and Eigen into Enzyme,The LLVM Compiler Infrastructure
+1022,Harsh Khilawala,Measure the Quality of CerebUnit Validation Tests,INCF
+1023,Piyumal Demotte,Input/Out Workflows for Active Segmentation Platform,INCF
+1024,Santhosh Anguluri,Collective Operations over multiple layers/groups,KDE Community
+1025,Rishabh Garg,Improve Tree Ensemble Support,mlpack
+1026,Daniyal Abbasi,Adding a Redis cache backend to Core,Django Software Foundation
+1027,Ayush Tiwari,Agora-Web,AOSSIE
+1028,Riccardo Mori,Use official isl C++ bindings for polly,The LLVM Compiler Infrastructure
+1029,Julius Hohnerlein,Hydra - Hybrid Fuzzing with LibAFL,AFLplusplus
+1030,Mark Nawar,re2r back on CRAN,The R Project for Statistical Computing
+1031,Saahil,DFFML: Support Archive Storage for  Models,Python Software Foundation
+1032,Ashish-Kumar,VRP functionality with VROOM on the database for pgRouting,OSGeo - Open Source Geospatial Foundation
+1033,Suryansh Singh Tomar,Proposal for Monumento,AOSSIE
+1034,Christos Margiolis,libmixer(3),FreeBSD Project
+1035,Fahad Nayyar,Beneficial region-instantiation for SPF,Java PathFinder
+1036,Sourav singh,AR Draw experience in MapMint4me,OSGeo - Open Source Geospatial Foundation
+1037,Aleksandr Gushchin,Improve fast scene detection modes proposal,Xiph.Org Foundation
+1038,Lucas Stankus,Proposal for GSoC 2021 IIO Driver: AD7294-2,The Linux Foundation
+1039,Yadnik Bendale,Micropython for BeagleConnect Freedom,BeagleBoard.org Foundation
+1040,Srinivas Yadav,Add vectorization to par_unseq implementations of Parallel Algorithms,STE||AR Group
+1041,daksh,Digital Library Management,Cuneiform Digital Library Initiative (CDLI)
+1042,Nazerke Turtayeva,Multi-level TLB support for Ariane,Free and Open Source Silicon Foundation
+1043,Akhil,Testing Dashboard,PEcAn Project
+1044,Kaushik Sivashankar,Dark Web Exploration for Cyber Threat Analysis,OWASP Foundation
+1045,Barun,Geographic Features Refinement,Public Lab
+1046,Vedant Paranjape,Multistream support in GStreamer element,libcamera
+1047,Hasan Faraz Khan,General Improvements in hydrus,Hydra Ecosystem
+1048,Aditya Mulgundkar,Create nuget package for OpenCV and OpenCV contrib,OpenCV
+1049,Abhijeet Bodas,"Work on making Zulip better for large, high traffic organizations.",Zulip
+1050,Oscar Ekholm,View-Only Mode in GRC,GNU Radio
+1051,Lut,Improve pure Elm markdown parser,Elm Tooling
+1052,Yash-10,Expand Events Detection,Libre Space Foundation
+1053,Zohaib Ansari,Element History Widget,OpenStreetMap
+1054,Tasneem Koushar,Automating Puppeteer’s Documentation - Tasneem Koushar,Chromium
+1055,Harshit Sharma,Quality Check and Assurance,Polypheny
+1056,Gaelan Steele,vhost-user-scsi device in Rust,QEMU
+1057,Kumar Kartikeya Dwivedi,Add io_uring support,CRIU
+1058,Mostafa Ashraf Mohamed,Improving support for compute shaders in spirv-fuzz,Android Graphics Tools Team
+1059,Shravan Chaudhari,Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment,Machine Learning for Science (ML4SCI) Umbrella Organization
+1060,Pavan Joshi,Internationalization of CircuitVerse Platforms,CircuitVerse.org
+1061,Mishal Singhai,Object Centric Data Storage PDC_CEPH RADOS INTEGRATION,"Center for Research in Open Source Software, UC Santa Cruz"
+1062,Vasanth Mani Vasi,Music Transformer,The Julia Language
+1063,Chandykunju Alex,TensorFlow Implementation of Distribution Aware Coordinate Representation for Human Pose Estimation,TensorFlow
+1064,zyklotomic,Visualization Libraries for ghc-debug,Haskell.org
+1065,Qijia “Joy” Liu,Develop in-toto-rs (Rust) for integration with rebuilderd,CNCF
+1066,Tejasvi Chebrolu,Lazy Formal Power Series,SageMath
+1067,Can Alpay,PD to AF conversion facility in Newt,National Resource for Network Biology (NRNB)
+1068,Divyank Lunkad,Agora Android,AOSSIE
+1069,sh15h4nk,Updation of the Json Schema to latest version (2020-12) along with the form generation and validation with the updated schema of the tools,freifunk
+1070,Omer Yacine,Shaka-Streamer Enhancements,Shaka Player
+1071,Sushmita,GSoC Proposal 2021: Tag/Topic System Refinements,Public Lab
+1072,Yash Varshney,Add autocompletion to Page Forms spreadsheet-style display,Wikimedia Foundation
+1073,Tin Chon Chan,Better Voxel Filter,Point Cloud Library
+1074,Ricardo Subtil,Implementing a DAP backend for debugging Godot projects,Godot Engine
+1075,Dhruv Sondhi,Improving TARDIS Simulation Logging Framework,TARDIS SN
+1076,Yunfei Zhao,Gesture temporal detection pipeline for news videos,Red Hen Lab
+1077,Trung Ngo Tan,Sign Language Recognition,RoboComp
+1078,Simran Kathpalia,Syzkaller improvements,FreeBSD Project
+1079,Shivam Pathak,"OONI: Developing Unit, Integration and E2E tests for Probe Desktop apps",Digital Impact Alliance (DIAL) at UN Foundation
+1080,Shardul Semwal,Achievement in RetroPlayer,Kodi
+1081,akash konda,Real-Time Collaboration on a note,Joplin
+1082,Satyam Kumar,Convergence Criteria,MBDyn
+1083,Martin Schulz,mne-python: Enhancing Performance of Signal Browsing using PyQt,Python Software Foundation
+1084,Anuj Singhal,Unified Color UI,MIT App Inventor
+1085,Laurine Dargaud,Classes and Methods for Spatial Data,Pharo Consortium
+1086,Antriksh Misri,Create new user interface widget,Python Software Foundation
+1087,Sayandip Halder,Python bindings for TACO compiler,Python Software Foundation
+1088,Ashish Patel,Adding Tibetan Calendar in Unicode Common Locale Data Repository (CLDR) and International Components for Unicode (ICU) library,Project WikiLoop
+1089,Anuj Lamoria,Automatically identify Contributor Aliases,CHAOSS Project
+1090,Junxuan Wu,Proposal for cloudstack: cloning a VM,The Apache Software Foundation
+1091,Niklas Schmitz,Automatic differentiation in density-functional theory,The Julia Language
+1092,Dimitris Papageorgiou,NetworkX - Louvain Community Detection Algorithm,NumFOCUS
+1093,EXTREMOPHILARUM,General Improvements,OWASP Foundation
+1094,Hae Dong Lee,[Incubator-Nemo] Accurate Task Execution Simulator for Distributed Data Processing,The Apache Software Foundation
+1095,srikavin,Generating Syscall Decoders from Declarative Definitions,strace
+1096,Isala Piyarisi,Logging Pipeline Plumber for Rancher,openSUSE Project
+1097,Cian Jinks,Blender Knife Tool Improvements,Blender Foundation
+1098,Kaaira Gupta,MinPlatform QemuOpenBoardPkg,TianoCore
+1099,Aditya Kurkure,HAPI Struct <> Proto Conversion Tool,Google FHIR SDK
+1100,Utkarsh A. Mishra,Behavior Metrics: Modular Framework for Deep and Reinforcement Learning with Multiple-Robots,JdeRobot - Universidad Rey Juan Carlos
+1101,Sheng-Feng,Replacing the core library of Quark-Engine,The Honeynet Project
+1102,Nippun Sharma,Revamp mlpack bindings,mlpack
+1103,Nga Tran,Adding more functionality to AnalySim: a data sharing and analysis platform,INCF
+1104,Toshiaki Tanaka,Make mitmweb’s UI rich and easy to use,The Honeynet Project
+1105,Dhruv P,Adaptive Load Control and Distributed Load Testing of Envoy Data Planes,CNCF
+1106,Katie Chan,p5.js 2021 Showcase: The Love Ethic,Processing Foundation
+1107,srnaveen2k,Circuitpython busio compatibility layer for pslab-python,Digital Impact Alliance (DIAL) at UN Foundation
+1108,Meet Shah,Animal Interaction Improvements in Josharia’s Survival,The Terasology Foundation
+1109,Bhumit Attarde,Integrating xfstests with KIO FUSE,KDE Community
+1110,Tidiane,Wagtail Live,Django Software Foundation
+1111,Anoushka Ramesh,Building a Working Prototype of the AutSPACEs website,INCF
+1112,Piyush Singariya,SMI Support for Multi-Cluster Operations,CNCF
+1113,Anmol .,VirtIO-blk implementation with AGL on Jailhouse,The Linux Foundation
+1114,ayoubft,Integrating a module to 3d scan a house within the MapMint4ME android application.,OSGeo - Open Source Geospatial Foundation
+1115,Pavit Kaur,Incremental Improvements to Debian’s CI platform,Debian
+1116,Yongha Hwang,Proposals for file transfer improvement and more,Xfce
+1117,Sahil Walke,Contribute new models to the Brain Dynamics toolbox (bdtoolbox),INCF
+1118,Gurudatta Patil,Upgrading the Ganga Graphical User Interface,CERN-HSF
+1119,Manikant Rai,Android FHIR Client,Google FHIR SDK
+1120,Lenka Hasova,"Competing destination for Spatial Interaction models, SpInt/PySal",NumFOCUS
+1121,Gagandeep Singh,Supporting Arrays and Allocatables in LFortran,NumFOCUS
+1122,Dhruv Sachdev,"Develop a Shared Data Resource Focused on Dependencies, Risks and Vulnerabilities in Open Source Software",CHAOSS Project
+1123,Aoji Xie,Authentication and Authorization Service for the Alliance of Genome Resources,Open Genome Informatics
+1124,Rashmi Raj,Modern Statistical Modeling in Stingray,openastronomy
+1125,Lokesh Rana,Visualization Of Systems-Level Gene Annotation  (UI-Side),Open Genome Informatics
+1126,Fernando Martin,Port of AGM from Python 2 to Python 3,RoboComp
+1127,Abhishek Kumar Jha,Android Support for ENIGMA,The ENIGMA Team
+1128,Z0marlin,OpenEBS: Update mount-points and capacity of Block Devices without restarting NDM,CNCF
+1129,Sudeep Sidhu,Implement JointsMethod,SymPy
+1130,Zeeshan Rafique,M-extension support for SERV,Free and Open Source Silicon Foundation
+1131,Arjun Gupta,Implement feature flags & platform parameters,Oppia Foundation
+1132,Tushar Jain-2,Accuracy and parallel computation in parton density calculation,CERN-HSF
+1133,Germano dos Santos,PySal: Open Source Facility Location Modeling (spopt) Development,NumFOCUS
+1134,Jaiwanth,Exporting Conversations From Element,Matrix.org
+1135,Anshuman Singh-1,Writing SAST Vulnerability Rules,GitLab
+1136,Geetansh Saxena,COLOUR: Adding new colour models,NumFOCUS
+1137,Abhirup Pal,"EOS: Improving Adobe XD, Figma Plugin and Creating Angular Library",Python Software Foundation
+1138,Mihai Popescu,"Data streaming in scientific workflows, implementation for Toil",Open Bioinformatics Foundation
+1139,Jeppe Blomgren,WebAssembly loader,MetaCall
+1140,SUSHANT A.A.,Verbs to Gio::Actions,Inkscape
+1141,Zulai Wang,USING BALANCED_READS ON RGW CALLS TO RADOS,Ceph
+1142,Maneesh P M,Improve suggestion and full-text search features in Kiwix,Kiwix
+1143,Zihao Mu,Loop closure algorithm based on HF-Net+BoW for depth fusion,OpenCV
+1144,Dhairya Khanna,Gamified Knowledge Base Completion Plugin for Wikibase/Wikidata,Wikimedia Foundation
+1145,Ross Viljoen,Implementing Advanced Variational Gaussian Process Models,The Julia Language
+1146,Dev Sebastian,Support for Particle Physics in Catrobat,International Catrobat Association
+1147,Nur El-Din El-Rez,Room Database Integration,International Catrobat Association
+1148,Kartikay Sharma,PSLab: Add support of PSLab to sigrok,Digital Impact Alliance (DIAL) at UN Foundation
+1149,Rishabh Kumar,Extend RFC-7427 Signature Authentication Support To IKEv2 With EDDSA Support,The Libreswan Project
+1150,Devesh Kumar,Create and Enhance APIs related to Education Platform,JBoss Community
+1151,Katrix,Cross compiling “Shapeless 2” to “Scala 3”,Scala Center
+1152,Eshan Tripathi-1,Website Updates,PEcAn Project
+1153,Dmitrii Klepikov,3D samples using OpenGL and GLFW,OpenCV
+1154,Maximiliano Sandoval,Design tooling: port to gtk 4,GNOME Foundation
+1155,dvd48,Sparkling Embroidery,International Catrobat Association
+1156,Abhimanyu Rawat,RIoTPot - Honeypot for IOT/OT devices,The Honeynet Project
+1157,mablin,Kanban Board Plugin for Joplin,Joplin
+1158,Ethin Probst,Audio output protocol,TianoCore
+1159,ZheNing Hu,Use ref-filter formats in git cat-file,Git
+1160,Noah Bouchier,ESDA enhancements: Distortion Index,NumFOCUS
+1161,Asha Sulaiman,Integrate Spoke Peer-to-Peer Texting,CiviCRM LLC
+1162,boron,LIDAR visualization application on AGL using ROS2,The Linux Foundation
+1163,Pratik Dey,Integrate VirtualCodebase with Deltacode,AboutCode
+1164,Vikram Atreyapurapu,Implement UNDO and transactional changes,BRL-CAD
+1165,Aaryan Kothari,Monumento iOS application,AOSSIE
+1166,Rohan Lekhwani,Poll App Mega Extensions,Rocket.Chat
+1167,Aniket Bhat,DefectDojo Modern UI,OWASP Foundation
+1168,Wahab Oguntade,Chatbot for AsyncAPI Creators Project Proposal,Postman
+1169,Zelong Yue,Test driver API coverage,libvirt
+1170,Pratyush Ranjan,CUPS Filters: Converting Filters to Filter Functions,The Linux Foundation
+1171,Vishwas Adiga,A Modular Approach To The App Inventor Projects View,MIT App Inventor
+1172,Debabrata Mandal,Network graph visualisation and animation support in Javis,The Julia Language
+1173,danseraf,Software Heritage Code Scanner Improvements for Production Environments,Software Heritage
+1174,Singh Prabhat,Adding the Ability To BCF Libraries to connect to BCF API's.,BRL-CAD
+1175,Shivam Singh-3,Redesign and develop APISIX landing page,The Apache Software Foundation
+1176,Marvin Häuser,Integration of a verified Image Loader,TianoCore
+1177,Apoorv Srivastava,Implement lightweight checkpointing,Oppia Foundation
+1178,Alexander Slesarev,WAL-G optimization backup storage by remote-copy APIs,PostgreSQL
+1179,Pedro Falcato,EXT4 Filesystem driver,TianoCore
+1180,Lohith Munakala,Machine Learning for Sea Floor Sampling and IOOS Demo Data Center migration to Jupyterbook,Integrated Ocean Observing System (IOOS)
+1181,Sarita Singh,Integrating ScanCode Toolkit,FOSSology
+1182,rishabhsingh3003,Precision Landing Improvements using Depth Camera,ArduPilot
+1183,DEVANSH DIXIT,Project Recommendation System,CircuitVerse.org
+1184,Param Mirnai,Integrating scikit-learn into Syft,OpenMined
+1185,isabella Macchivello,Changing the frontend of OrcaSound,Orcasound
+1186,Syed Fahad,Implementation of a new Quad-double type for Boost.Multiprecision,Boost C++ Libraries
+1187,Fernando Casabán Blasco,Web app to generate RDF from DBpedia abstracts - Fernando Casabán Blasco,DBpedia
+1188,Bala Dhinesh,Virtual FPGA Lab,Free and Open Source Silicon Foundation
+1189,Julio Grillo,TOML Support in dhall-haskell,Haskell.org
+1190,Sagilio,Casbin for .NET,Casbin
+1191,Aditya Ahuja,Normalizing Flows for Fast Detector Simulation,Machine Learning for Science (ML4SCI) Umbrella Organization
+1192,Yash Mathne,Investigate the current state of syslog ng on MacOS,syslog-ng
+1193,willpiper,Custom Firmware Builder,ArduPilot
+1194,Filip Adamik,A Stitch In Time (saves nine),The Honeynet Project
+1195,Archit_Agrawal,RooUnfold - Efficient deconvolution using state of the art algorithms,CERN-HSF
+1196,kfb19,Tackle Security Issues of OpenMRS,OpenMRS
+1197,Ishaan Arora,Upgrade Django-based Website,Inkscape
+1198,Piumal Rathnayake,Improving Functionalities of DHIS Connector Module,OpenMRS
+1199,Anantha Rao,Decoding quantum states through Nuclear Magnetic Resonance,Machine Learning for Science (ML4SCI) Umbrella Organization
+1200,Psyogi Soma,Re-creating the Leech Heartbeat Network Model Tutorial using the Neuron Simulator in Python and NeuroML,INCF
+1201,Nizar Benshaqi,Improve the VideoLAN crash reporter in Go and Vue.js,VideoLAN
+1202,Pulkit Sharma,Security Validator for Jenkins Kubernetes Operator,Continuous Delivery Foundation
+1203,Mohammad Hesam Shaelaie,Expanding support for the solution of bilevel optimization problems in JuMP.,NumFOCUS
+1204,Bui Quang Minh,Add support for checkpoint/restore read and write queue of UDP socket,CRIU
+1205,Husni Faiz,Beagleboard BSP Projects,RTEMS Project
+1206,Mahak Porwal,WP1 Selection,Kiwix
+1207,Konstantinos Pallikaris,Parallel Geometric Random Walks with Sparse Numerical Optimizations,GeomScale
+1208,Yeshuai Cui,Merge Crossplane/OAM-Runtime with KubeVela by specify version,CNCF
+1209,Allan Juan,Language Power Tools,Rocket.Chat
+1210,George Vaindirlis,MPD Server in VLC,VideoLAN
+1211,Pushpinder Pal Singh,Making VLC iOS app a one stop shop for all the media consumption and management,VideoLAN
+1212,Akshay_Sharma,Create a MIME Sniffing Library for Scrapy,Python Software Foundation
+1213,Tomoki Sugiura,Explicit Allow-Listing for ICMP,Cilium
+1214,Rohit Menon,Ractor-supported libraries,Ruby
+1215,Abanoub Ghadban,tracker: Improve custom ontology support,GNOME Foundation
+1216,Mario Robert D'Ambrosio,Python GUI Visualisation for MOLTO-3BP Engine,AerospaceResearch.net
+1217,Siddharth Naithani ;sn99,Implement butteraugli in av-metrics,Xiph.Org Foundation
+1218,Rachitt Shah,Stingray: DAVE GUI update,openastronomy
+1219,Mariam Fahmy,Adding new activities to GCompris,KDE Community
+1220,Nitesh Sinha,New General Navigation Menu and UX improvements,OpenWISP
+1221,victorcwai,Update Kanidm project: MFA backup code,openSUSE Project
+1222,Ali A. Hariri,On the potential of graph-based models in High Energy Physics,Machine Learning for Science (ML4SCI) Umbrella Organization
+1223,Aniket Ray,MediaPipe Cross-Platform Solution,MediaPipe
+1224,Monalisha Ojha,Upgrading the Ganga graphical user interface,CERN-HSF
+1225,Cameron Connell,Modernize the underlying data struct of edwood,Plan 9 Foundation
+1226,Vaibhav Thakkar,Counting linear extensions,GeomScale
+1227,zhixiang Chen,casbin enhancement,Casbin
+1228,Angie Ortiz Giraldo,LibreMesh Pirania UI,freifunk
+1229,Shuai Wang,LIBCEPHFSSQLITE — SQLite VFS on Ceph File System,Ceph
+1230,Steph Prince,Conversion of public neurophysiology datasets to NeuroData Without Borders format,INCF
+1231,Aayush Sahu,AsyncDiff,Postman
+1232,SKefalidis,Thunar Evolved,Xfce
+1233,Jaidyn Levesque,Caya Renovation,Haiku
+1234,Justin Fargnoli,Alive2 for SIL,Swift
+1235,Rohit Verma,(Live) listener statistics for Icecast,Xiph.Org Foundation
+1236,Khuda Dad Nomani,AsyncAPI duplications finder aka document optimizer,Postman
+1237,Krishna Kariya,Fix Fundamental Issues in LLVM IR,The LLVM Compiler Infrastructure
+1238,Vishal Mishra,Adding a return channel to Icecast server,Xiph.Org Foundation
+1239,peymaneh,Packaging Caddy,Debian
+1240,Tushar Kumar-2,Implement Interface for external data source import into Calc,LibreOffice
+1241,Aswin C,Support for CPU and Platform Profiles,Rizin
+1242,Xiaoyu Qiu,GSoC 2021 Proposal: Add regexp-parser() (Xiaoyu Qiu),syslog-ng
+1243,Ritik Malik,Automate Metrics Release and Process Improvement,CHAOSS Project
+1244,Maanas Talwar,Scan8,SCoRe Lab
+1245,sgeisler,Details often make the difference and I pay attention to them! Coding experience meets state of the art research,TensorFlow
+1246,Davide Pietrasanta,Real-time subtitles for movies,VideoLAN
+1247,Amarthya Sasi Kiran,Software agent for traffic and pedestrian traffic monitoring in outdoor environments using RGB cameras.,RoboComp
+1248,Swapnil Tripathi,Alligator : Podcast Support,KDE Community
+1249,Mengan Wang,First-Ever Tibetan Spell Checker,Project WikiLoop
+1250,Matthew Joyce,Adding New APIs from POSIX Standard 2021,RTEMS Project
+1251,Luca Ferranti,Developing IntervalLinearAlgebra.jl,The Julia Language
+1252,Bisakh Mondal,Port power policies end-to-end tests,Chromium
+1253,Daksh Doshi,Music Blocks Project Blocks Reorganization,Sugar Labs
+1254,Angela Remolina,Improving Python’s online interpreter and more interactive exercises,Python Software Foundation
+1255,Aashwin Vaish,GUI for Game Library Management,ScummVM
+1256,Shashwat Jaiswal,Adaptation of Behavior Driven Development Ideas for Testing of Source Code Validation Algorithms,Checkstyle
+1257,Riya Kalra,Convert Virtual Systems Page to ReactJS,openSUSE Project
+1258,Mohit Bhat,NodeCloud - Digital Ocean Provider,SCoRe Lab
+1259,Himanshu Garg,ANIMATION IMPROVEMENTS,MIT App Inventor
+1260,Smriti Tiwari,Detecting low Volatility anomaly in Stock Market,GeomScale
+1261,Asela Dasanayaka,Revive TensorMap,SCoRe Lab
+1262,Kartikey Rawat,Implement Kernels for TensorFlow.JS WASM backend,TensorFlow
+1263,peb,Checker Creation Helper Script and Recommending Safe package versions,Python Software Foundation
+1264,Natáli Anzanello,Astrometry - Gnuastro,openastronomy
+1265,Jan Gruber,Extending DRAKVUF by an I/O-emulation module in order to camouflage its sandbox nature,The Honeynet Project
+1266,sayshreya,ATARASHI - MINERVA,FOSSology
+1267,Gourab Chakraborty,Adopting the Hindi-Bengali language pair (unreleased language pair).,Apertium
+1268,grimmmyshini,Add numerical differentiation support in Clad,CERN-HSF
+1269,Pan Yue,Boost.Python: asyncio event loop implementation using Boost.Asio,Boost C++ Libraries
+1270,Simardeep Singh Sethi,Equadratures: Web Application based on Uncertainty Quantification,NumFOCUS
+1271,Shreyas Swanand Atre,Beagle-Config,BeagleBoard.org Foundation
+1272,Jixin Chen,"Alpine, macOS support","Center for Research in Open Source Software, UC Santa Cruz"
+1273,Xuewei Meng,Guided Filter in FFmpeg,FFmpeg
+1274,Trevor Karn,G-invariants of the Orlik-Solomon and Orlik-Terao algebras,SageMath
+1275,Ricardo Antunes,3D samples using OpenGL and GLFW,OpenCV
+1276,Shadow,Proposal for CodeLabZ,SCoRe Lab
+1277,Mahavir Singh,Improve LibreHealth Toolkit Cost Of care Flutter Application And Web-App,LibreHealth
+1278,Lorxu,Distinct Terrain Features for Metal Renegades,The Terasology Foundation
+1279,Beshiniii,"CrawlerX - Develop Extensible, Distributed, Scalable Web Crawling System",SCoRe Lab
+1280,ricekot,Adding Out-of-band Application Testing (OAST) Support to ZAP,OWASP Foundation
+1281,Vaibhaw Khemka,Monocular Depth Estimation from RGB signals,RoboComp
+1282,Priyansh Garg,Port Zulipbot to GitHub Actions,Zulip
+1283,Akshat,Refactor frontend-markdown processor using an extensible CommonMark parser,Zulip
+1284,Omar Emara,Evolving the LLDB GUI,The LLVM Compiler Infrastructure
+1285,Lakshmi S,Black Parrot on Open-Source Google-Skywater 130nm node,Free and Open Source Silicon Foundation
+1286,Anustup Mukherjee,Models to TF HUB and Garden,TensorFlow
+1287,Yash Khasbage,Anonymizing Audiovisual Data,Red Hen Lab
+1288,Konstantina Skovola,Create procedural language extension for the Julia programming language,PostgreSQL
+1289,Abhishek Rawat,Generator for offline documentation,BRL-CAD
+1290,Boqian Xie,Proposal for Casdoor and Casnode,Casbin
+1291,SOUGATA DAS,CodeLabs - FrontEnd Improvements,SCoRe Lab
+1292,Thirumalai Shaktivel,LFortran: Finish AST generation,Fortran-lang
